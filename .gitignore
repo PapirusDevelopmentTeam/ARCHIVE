@@ -1,0 +1,7 @@
+*
+!**/AUTHORS
+!**/LICENSE
+!Makefile
+!README.md
+!**/*.qml
+!.gitignore

@@ -1,0 +1,1 @@
+# papirus-konsole-colorscheme

@@ -1,4 +1,4 @@
-INSTALLDIR = $(DESTDIR)/usr/share/messageviewer/themes/
+INSTALLDIR = $(DESTDIR)/usr/share/messageviewer/themes
 RM = rm -rf
 
 all:
@@ -6,8 +6,8 @@ all:
 install: local
 
 clear:
-	$(RM) $(INSTALLDIR)papirus
+	$(RM) $(INSTALLDIR)/papirus
 local:
-	find papirus -type f -exec install -Dm644 '{}' "$(INSTALLDIR){}" \;
+	find papirus -type f -exec install -Dm644 '{}' "$(INSTALLDIR)/{}" \;
 
 uninstall: clear

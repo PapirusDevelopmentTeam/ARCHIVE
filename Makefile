@@ -1,5 +1,5 @@
-K3BKDE4DIR = $(DESTDIR)/usr/share/apps/k3b/pics/
-K3BKF5DIR = $(DESTDIR)/usr/share/k3b/pics/
+KDE4_DIR = $(DESTDIR)/usr/share/apps/k3b/pics
+KF5_DIR = $(DESTDIR)/usr/share/k3b/pics
 RM = rm -rf
 
 all:
@@ -7,10 +7,10 @@ all:
 install: local
 
 clear:
-	$(RM) $(K3BKDE4DIR)Papirus
-	$(RM) $(K3BKF5DIR)Papirus
+	$(RM) $(KDE4_DIR)/Papirus{,-Dark}
+	$(RM) $(KF5_DIR)/Papirus{,-Dark}
 local:
-	find Papirus -type f -exec install -Dm644 '{}' "$(K3BKDE4DIR){}" \;
-	find Papirus -type f -exec install -Dm644 '{}' "$(K3BKF5DIR){}" \;
+	find Papirus{,-Dark} -type f -exec install -Dm644 '{}' "$(KDE4_DIR)/{}" \;
+	find Papirus{,-Dark} -type f -exec install -Dm644 '{}' "$(KF5_DIR)/{}" \;
 
 uninstall: clear

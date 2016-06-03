@@ -1,0 +1,93 @@
+.
+├── CLEANUP.bash
+├── git
+│   ├── arc-dark-suite-git
+│   │   ├── INSTALL
+│   │   └── PKGBUILD
+│   ├── papirus-aurorae-theme-git
+│   │   └── PKGBUILD
+│   ├── papirus-bomi-skin-git
+│   │   └── PKGBUILD
+│   ├── papirus-color-scheme-git
+│   │   └── PKGBUILD
+│   ├── papirus-git
+│   │   └── PKGBUILD
+│   ├── papirus-gtk-theme-git
+│   │   └── PKGBUILD
+│   ├── papirus-icon-theme-gtk-git
+│   │   └── PKGBUILD
+│   ├── papirus-icon-theme-kde-git
+│   │   └── PKGBUILD
+│   ├── papirus-k3b-theme-git
+│   │   └── PKGBUILD
+│   ├── papirus-kmail-theme-git
+│   │   └── PKGBUILD
+│   ├── papirus-konsole-colorscheme-git
+│   │   └── PKGBUILD
+│   ├── papirus-libreoffice-theme-git
+│   │   └── PKGBUILD
+│   ├── papirus-look-and-feel-git
+│   │   └── PKGBUILD
+│   ├── papirus-plasma-theme-git
+│   │   ├── papirus-plasma-theme-git.install
+│   │   └── PKGBUILD
+│   ├── papirus-qtcurve-theme-git
+│   │   └── PKGBUILD
+│   ├── papirus-sddm-theme-git
+│   │   └── PKGBUILD
+│   ├── papirus-smplayer-theme-git
+│   │   └── PKGBUILD
+│   ├── papirus-vlc-theme-git
+│   │   └── PKGBUILD
+│   ├── papirus-wallpapers-git
+│   │   └── PKGBUILD
+│   └── papirus-yakuake-theme-git
+│       └── PKGBUILD
+├── LICENSE
+├── README.md
+├── stable
+│   ├── arc-dark-suite
+│   │   ├── INSTALL
+│   │   └── PKGBUILD
+│   ├── papirus
+│   │   └── PKGBUILD
+│   ├── papirus-aurorae-theme
+│   │   └── PKGBUILD
+│   ├── papirus-bomi-skin
+│   │   └── PKGBUILD
+│   ├── papirus-color-scheme
+│   │   └── PKGBUILD
+│   ├── papirus-gtk-theme
+│   │   └── PKGBUILD
+│   ├── papirus-icon-theme-gtk
+│   │   └── PKGBUILD
+│   ├── papirus-icon-theme-kde
+│   │   └── PKGBUILD
+│   ├── papirus-k3b-theme
+│   │   └── PKGBUILD
+│   ├── papirus-kmail-theme
+│   │   └── PKGBUILD
+│   ├── papirus-konsole-colorscheme
+│   │   └── PKGBUILD
+│   ├── papirus-libreoffice-theme
+│   │   └── PKGBUILD
+│   ├── papirus-look-and-feel
+│   │   └── PKGBUILD
+│   ├── papirus-plasma-theme
+│   │   ├── papirus-plasma-theme.install
+│   │   └── PKGBUILD
+│   ├── papirus-qtcurve-theme
+│   │   └── PKGBUILD
+│   ├── papirus-sddm-theme
+│   │   └── PKGBUILD
+│   ├── papirus-smplayer-theme
+│   │   └── PKGBUILD
+│   ├── papirus-vlc-theme
+│   │   └── PKGBUILD
+│   ├── papirus-wallpapers
+│   │   └── PKGBUILD
+│   └── papirus-yakuake-theme
+│       └── PKGBUILD
+└── TREE
+
+42 directories, 48 files

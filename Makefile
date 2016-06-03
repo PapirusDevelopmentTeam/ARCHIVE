@@ -1,4 +1,4 @@
-INSTALLDIR = $(DESTDIR)/usr/share/yakuake/skins/
+INSTALLDIR = $(DESTDIR)/usr/share/yakuake/skins
 RM = rm -rf
 
 all:
@@ -6,8 +6,8 @@ all:
 install: local
 
 clear:
-	$(RM) $(INSTALLDIR)papirus
+	$(RM) $(INSTALLDIR)/papirus{,-dark}
 local:
-	find papirus -type f -exec install -Dm644 '{}' "$(INSTALLDIR){}" \;
+	find papirus{,-dark} -type f -exec install -Dm644 '{}' "$(INSTALLDIR)/{}" \;
 
 uninstall: clear

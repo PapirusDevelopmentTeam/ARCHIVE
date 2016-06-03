@@ -2,7 +2,7 @@ INSTALLDIR = $(DESTDIR)/usr/share/icons
 AMAROKDIR = $(DESTDIR)/usr/share/apps/amarok/icons
 INSTALL = install -d
 RM = rm -rf
-CP = cp -Rf
+CP = cp -rf
 
 all:
 
@@ -17,6 +17,6 @@ local:
 	$(INSTALL) $(AMAROKDIR)/papirus
 	
 	$(CP) papirus{,-dark} $(INSTALLDIR)
-	$(CP) papirus/extra-icons/amarok/* $(AMAROKDIR)/papirus
+	$(CP) papirus/extra-icons/amarok/* $(AMAROKDIR)/papirus/
 
 uninstall: clear

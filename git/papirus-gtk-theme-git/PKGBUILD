@@ -1,15 +1,16 @@
 # Maintainer: FadeMind <fademind@gmail.com>
 
-pkgname=papirus-kmail-theme-git
+pkgname=papirus-gtk-theme-git
 pkgver=20160601
 pkgrel=1
-pkgdesc="Papirus theme for KMail (git version)"
+pkgdesc="Papirus color scheme for KDE (git version)"
 url="https://github.com/PapirusDevelopmentTeam/${pkgname%-git}"
-arch=('any')
+arch=('i686' 'x86_64')
 license=('GPL')
-depends=('kmail')
+depends=('plasma-desktop' 'gtk2' 'gtk3' 'gtk-engine-murrine')
+optdepends_x86_64=('lib32-gtk2' 'lib32-gtk3' 'lib32-gtk-engine-murrine')
 makedepends=('git' 'make')
-conflicts=('papirus-kmail-theme')
+conflicts=('papirus-gtk-theme')
 options=('!strip')
 source=("${pkgname}::git+${url}.git")
 sha256sums=('SKIP')

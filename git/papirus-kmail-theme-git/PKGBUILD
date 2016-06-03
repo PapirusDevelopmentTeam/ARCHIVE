@@ -1,15 +1,15 @@
 # Maintainer: FadeMind <fademind@gmail.com>
 
-pkgname=papirus-gtk-theme-git
-pkgver=20160601
+pkgname=papirus-kmail-theme-git
+pkgver=20160603
 pkgrel=1
-pkgdesc="Look-and-feel package for modified and adaptive Papirus theme for KDE (git version)"
+pkgdesc="Papirus theme for KMail (git version)"
 url="https://github.com/PapirusDevelopmentTeam/${pkgname%-git}"
 arch=('any')
 license=('GPL')
-depends=('plasma-desktop')
+depends=('kmail')
 makedepends=('git' 'make')
-conflicts=('papirus-gtk-theme')
+conflicts=('papirus-kmail-theme')
 options=('!strip')
 source=("${pkgname}::git+${url}.git")
 sha256sums=('SKIP')

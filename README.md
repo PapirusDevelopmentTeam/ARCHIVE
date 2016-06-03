@@ -1,2 +1,5 @@
 # PKGBUILDs
-PKGBUILDs for Arch Linux
+
+Mirror PKGBUILDs for AUR
+
+Maintainer: [FadeMind](https://github.com/FadeMind)

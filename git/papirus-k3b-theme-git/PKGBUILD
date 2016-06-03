@@ -1,15 +1,15 @@
 # Maintainer: FadeMind <fademind@gmail.com>
 
-pkgname=papirus-yakuake-theme-git
-pkgver=20160601
+pkgname=papirus-k3b-theme-git
+pkgver=20160603
 pkgrel=1
-pkgdesc="Papirus theme for Yakuake (git version)"
+pkgdesc="Papirus theme for K3B (git version)"
 url="https://github.com/PapirusDevelopmentTeam/${pkgname%-git}"
 arch=('any')
 license=('GPL')
-depends=('yakuake')
+depends=('k3b')
 makedepends=('git' 'make')
-conflicts=('papirus-yakuake-theme')
+conflicts=('papirus-k3b-theme')
 options=('!strip')
 source=("${pkgname}::git+${url}.git")
 sha256sums=('SKIP')

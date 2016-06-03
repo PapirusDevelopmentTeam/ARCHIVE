@@ -14,7 +14,7 @@ clear:
 
 local:
 	$(INSTALL) $(INSTALLDIR)
-	$(INSTALL) $(AMAROKDIR)papirus
+	$(INSTALL) $(AMAROKDIR)/papirus
 	
 	$(CP) papirus{,-dark} $(INSTALLDIR)
 	$(CP) papirus/extra-icons/amarok/* $(AMAROKDIR)/papirus

@@ -1,5 +1,5 @@
 # papirus-look-and-feel
-Look and Feel setting for Papirus on Plasma 5
+Look and Feel settings for Papirus on Plasma 5
 
 ![Screenshot](preview.png)
 

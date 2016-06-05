@@ -1,6 +1,6 @@
 .
 ├── CLEANUP.bash
-├── git
+├── git-arch
 │   ├── arc-dark-suite-git
 │   │   ├── INSTALL
 │   │   └── PKGBUILD
@@ -43,9 +43,60 @@
 │   │   └── PKGBUILD
 │   └── papirus-yakuake-theme-git
 │       └── PKGBUILD
+├── git-kaos
+│   ├── arc-dark-suite-git
+│   │   ├── INSTALL
+│   │   ├── PKGBUILD
+│   │   └── README.md
+│   ├── papirus-aurorae-theme-git
+│   │   ├── PKGBUILD
+│   │   └── README.md
+│   ├── papirus-color-scheme-git
+│   │   ├── PKGBUILD
+│   │   └── README.md
+│   ├── papirus-gtk-theme-git
+│   │   ├── PKGBUILD
+│   │   └── README.md
+│   ├── papirus-icon-theme-kde-git
+│   │   ├── PKGBUILD
+│   │   └── README.md
+│   ├── papirus-k3b-theme-git
+│   │   ├── PKGBUILD
+│   │   └── README.md
+│   ├── papirus-kaos-meta-git
+│   │   ├── PKGBUILD
+│   │   └── README.md
+│   ├── papirus-konsole-colorscheme-git
+│   │   ├── PKGBUILD
+│   │   └── README.md
+│   ├── papirus-look-and-feel-git
+│   │   ├── PKGBUILD
+│   │   └── README.md
+│   ├── papirus-plasma-theme-git
+│   │   ├── papirus-plasma-theme-git.install
+│   │   ├── PKGBUILD
+│   │   └── README.md
+│   ├── papirus-qtcurve-theme-git
+│   │   ├── PKGBUILD
+│   │   └── README.md
+│   ├── papirus-sddm-theme-git
+│   │   ├── PKGBUILD
+│   │   └── README.md
+│   ├── papirus-smplayer-theme-git
+│   │   ├── PKGBUILD
+│   │   └── README.md
+│   ├── papirus-vlc-theme-git
+│   │   ├── PKGBUILD
+│   │   └── README.md
+│   ├── papirus-wallpapers-git
+│   │   ├── PKGBUILD
+│   │   └── README.md
+│   └── papirus-yakuake-theme-git
+│       ├── PKGBUILD
+│       └── README.md
 ├── LICENSE
 ├── README.md
-├── stable
+├── stable-arch
 │   ├── arc-dark-suite
 │   │   ├── INSTALL
 │   │   └── PKGBUILD
@@ -90,4 +141,4 @@
 │       └── PKGBUILD
 └── TREE
 
-42 directories, 48 files
+59 directories, 82 files

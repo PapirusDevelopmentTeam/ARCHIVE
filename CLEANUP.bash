@@ -13,7 +13,9 @@ cleanup() {
     find * -type d -exec chmod 755 {} +
 }
 
-cd git/
+cd git-arch/
 cleanup
-cd ../stable/
+cd ../git-kaos/
+cleanup
+cd ../stable-arch/
 cleanup

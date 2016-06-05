@@ -51,6 +51,9 @@
 │   ├── papirus-aurorae-theme-git
 │   │   ├── PKGBUILD
 │   │   └── README.md
+│   ├── papirus-bomi-skin-git
+│   │   ├── PKGBUILD
+│   │   └── README.md
 │   ├── papirus-color-scheme-git
 │   │   ├── PKGBUILD
 │   │   └── README.md
@@ -66,7 +69,13 @@
 │   ├── papirus-kaos-meta-git
 │   │   ├── PKGBUILD
 │   │   └── README.md
+│   ├── papirus-kmail-theme-git
+│   │   ├── PKGBUILD
+│   │   └── README.md
 │   ├── papirus-konsole-colorscheme-git
+│   │   ├── PKGBUILD
+│   │   └── README.md
+│   ├── papirus-libreoffice-theme-git
 │   │   ├── PKGBUILD
 │   │   └── README.md
 │   ├── papirus-look-and-feel-git
@@ -141,4 +150,4 @@
 │       └── PKGBUILD
 └── TREE
 
-59 directories, 82 files
+62 directories, 88 files

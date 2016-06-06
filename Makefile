@@ -7,10 +7,10 @@ all:
 install: local
 
 clear:
-	$(RM) $(KDE4_DIR)/Papirus{,-Dark}
-	$(RM) $(KF5_DIR)/Papirus{,-Dark}
+	$(RM) $(KDE4_DIR)/Papirus
+	$(RM) $(KF5_DIR)/Papirus
 local:
-	find Papirus{,-Dark} -type f -exec install -Dm644 '{}' "$(KDE4_DIR)/{}" \;
-	find Papirus{,-Dark} -type f -exec install -Dm644 '{}' "$(KF5_DIR)/{}" \;
+	find Papirus -type f -exec install -Dm644 '{}' "$(KDE4_DIR)/{}" \;
+	find Papirus -type f -exec install -Dm644 '{}' "$(KF5_DIR)/{}" \;
 
 uninstall: clear

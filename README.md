@@ -1,2 +1,4 @@
 # papirus-kvantum-theme
-Kvantum theme for Papirus
+Kvantum Papirus theme with transparent.
+
+![Screenshot](preview.png)

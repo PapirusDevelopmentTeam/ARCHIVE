@@ -2,9 +2,9 @@
 author=Alexey Varfolomeev
 comment=A light theme with an emphasis on elegant simplicity and support for translucency
 x11drag=true
+left_tabs=true
+attach_active_tab=true
 alt_mnemonic=true
-left_tabs=false
-attach_active_tab=false
 mirror_doc_tabs=false
 group_toolbar_buttons=true
 spread_progressbar=true
@@ -13,7 +13,7 @@ menu_shadow_depth=7
 tooltip_shadow_depth=6
 splitter_width=5
 scroll_width=6
-scroll_arrows=false
+scroll_arrows=true
 scroll_min_extent=50
 slider_width=6
 slider_handle_width=18
@@ -21,7 +21,7 @@ slider_handle_length=18
 center_toolbar_handle=true
 check_size=16
 textless_progressbar=false
-progressbar_thickness=40
+progressbar_thickness=16
 menubar_mouse_tracking=true
 toolbutton_style=0
 double_click=false
@@ -200,10 +200,10 @@ text.margin.top=2
 text.margin.bottom=2
 frame.element=tab
 indicator.element=tab
-frame.top=4
-frame.bottom=4
-frame.left=4
-frame.right=4
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0
 text.normal.color=#404040
 text.press.color=none
 text.focus.color=#404040
@@ -214,10 +214,10 @@ frame.expansion=10
 inherits=PanelButtonCommand
 frame.element=tabframe1
 interior=false
-frame.top=4
-frame.bottom=4
-frame.left=4
-frame.right=4
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0
 
 [TreeExpander]
 inherits=PanelButtonCommand
@@ -271,7 +271,7 @@ text.normal.color=#404040
 text.focus.color=#404040
 text.press.color=#404040
 text.toggle.color=#404040
-text.bold=true
+text.bold=false
 
 [ProgressbarContents]
 inherits=PanelButtonCommand
@@ -311,18 +311,20 @@ indicator.size=10
 inherits=PanelButtonCommand
 frame.element=scrollbarslider
 interior=false
-frame.left=6
-frame.right=6
-frame.top=6
-frame.bottom=6
+frame.left=4
+frame.right=4
+frame.top=4
+frame.bottom=4
 indicator.element=grip
 indicator.size=13
 frame.expansion=48
 
-[ScrollbarGroove]
-inherits=PanelButtonCommand
-interior=false
-frame=false
+[ScrollbarGroove] 
+interior=true
+frame.top=4
+frame.bottom=4
+frame.left=4
+frame.right=4
 
 [MenuItem]
 inherits=PanelButtonCommand

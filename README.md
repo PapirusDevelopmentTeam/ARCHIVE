@@ -1,4 +1,4 @@
 # papirus-kvantum-theme
-Kvantum Papirus theme with transparent.
+[Kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum) Papirus theme with transparent.
 
 ![Screenshot](preview.png)

@@ -9,14 +9,14 @@ all:
 install: local
 
 clear:
-	$(RM) $(INSTALLDIR)/papirus{,-dark}
+	$(RM) $(INSTALLDIR)/papirus{,-dark,-arc-dark}
 	$(RM) $(AMAROKDIR)/papirus
 
 local:
 	$(INSTALL) $(INSTALLDIR)
 	$(INSTALL) $(AMAROKDIR)/papirus
 	
-	$(CP) papirus{,-dark} $(INSTALLDIR)
+	$(CP) papirus{,-dark,-arc-dark} $(INSTALLDIR)
 	$(CP) papirus/extra-icons/amarok/* $(AMAROKDIR)/papirus/
 
 uninstall: clear

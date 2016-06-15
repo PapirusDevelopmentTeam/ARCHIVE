@@ -1,10 +1,9 @@
-# papirus-kvantum-theme
-Papirus theme for [Kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum) theme engine.
-
-![Screenshot](preview.png)
+<p align="center">
+  <img src="https://github.com/PapirusDevelopmentTeam/papirus-kvantum-theme/raw/master/preview.png" alt="preview"/>
+</p>
 
 # Install
-Archlinux (AUR):
+**Archlinux (AUR)**:
 ```
 yaourt -S papirus-kvantum-theme
 ```

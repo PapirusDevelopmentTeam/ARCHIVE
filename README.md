@@ -1,10 +1,9 @@
-# papirus-sddm-theme
-SDDM Papirus theme.
-
-![Screenshot](preview.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-sddm-theme/master/preview.png" alt="preview"/>
+</p>
 
 # Install
-Archlinux (AUR):
+**Archlinux (AUR)**:
 ```
 yaourt -S papirus-sddm-theme
 ```

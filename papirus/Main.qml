@@ -3,8 +3,8 @@ import SddmComponents 2.0
 
 Rectangle {
     id: container
-    width: 640
-    height: 480
+    width: 420
+    height: 420
 
     LayoutMirroring.enabled: Qt.locale().textDirection == Qt.RightToLeft
     LayoutMirroring.childrenInherit: true
@@ -15,7 +15,7 @@ Rectangle {
         target: sddm
 
         onLoginSucceeded: {
-            errorMessage.color = "#7f7f7f"
+            errorMessage.color = "#5f5f5f"
             errorMessage.text = textConstants.loginSucceeded
         }
 
@@ -41,15 +41,6 @@ Rectangle {
         color: "transparent"
         //visible: primaryScreen
 
-        Clock {
-            id: clock
-            anchors.margins: 5
-            anchors.top: parent.top; anchors.right: parent.right
-
-            color: "#7f7f7f"
-            timeFont.family: "Noto Sans"
-        }
-
         Image {
             id: rectangle
             anchors.centerIn: parent
@@ -59,16 +50,18 @@ Rectangle {
             source: "rectangle.png"
 
             Column {
+                x: 30
                 id: mainColumn
                 anchors.centerIn: parent
-                spacing: 12
+                spacing: 20
+                
                 Text {
-                    color: "#7f7f7f"
+                    color: "#5f5f5f"
                     anchors.horizontalCenter: parent.horizontalCenter
                     verticalAlignment: Text.AlignVCenter
                     height: text.implicitHeight
                     width: parent.width
-                    text: textConstants.welcomeText.arg(sddm.hostName)
+                    text: "WELCOME"
                     wrapMode: Text.WordWrap
                     font.pixelSize: 24
                     elide: Text.ElideRight
@@ -79,7 +72,7 @@ Rectangle {
                     width: parent.width
                     spacing: 4
                     Text {
-                        color: "#7f7f7f"
+                        color: "#5f5f5f"
                         id: lblName
                         width: parent.width
                         text: textConstants.userName
@@ -108,7 +101,7 @@ Rectangle {
                     width: parent.width
                     spacing : 4
                     Text {
-                        color: "#7f7f7f"
+                        color: "#5f5f5f"
                         id: lblPassword
                         width: parent.width
                         text: textConstants.password
@@ -150,7 +143,7 @@ Rectangle {
                         anchors.bottom: parent.bottom
 
                         Text {
-                            color: "#7f7f7f"
+                            color: "#5f5f5f"
                             id: lblSession
                             width: parent.width
                             text: textConstants.session
@@ -161,7 +154,7 @@ Rectangle {
 
                         ComboBox {
                             id: session
-                            color: "#7f7f7f"
+                            color: "#5f5f5f"
                             width: parent.width; height: 30
                             font.pixelSize: 14
 
@@ -181,7 +174,7 @@ Rectangle {
                         anchors.bottom: parent.bottom
 
                         Text {
-                            color: "#7f7f7f"
+                            color: "#5f5f5f"
                             id: lblLayout
                             width: parent.width
                             text: textConstants.layout
@@ -207,9 +200,10 @@ Rectangle {
                     anchors.horizontalCenter: parent.horizontalCenter
                     property int btnWidth: Math.max(loginButton.implicitWidth,
                                                     shutdownButton.implicitWidth,
-                                                    rebootButton.implicitWidth, 100) + 8
+                                                    rebootButton.implicitWidth, 100) + 15
                     ImageButton {
                     id: loginButton
+                    y:20
                     width: parent.btnWidth
                     source: "preferences-system-login.png"
 
@@ -220,6 +214,7 @@ Rectangle {
                     
                     ImageButton {
                     id: rebootButton
+                    y:20
                     width: parent.btnWidth
                     source: "system-reboot.png"
 
@@ -230,6 +225,7 @@ Rectangle {
                     
                     ImageButton {
                     id: shutdownButton
+                    y:20
                     width: parent.btnWidth
                     source: "system-shutdown.png"
 

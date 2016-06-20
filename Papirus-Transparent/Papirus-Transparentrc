@@ -8,9 +8,9 @@ Animation=0
 Shadow=false
 
 [Layout]
-BorderBottom=5
-BorderLeft=5
-BorderRight=5
+BorderBottom=1
+BorderLeft=1
+BorderRight=1
 ButtonHeight=20
 ButtonMarginTop=0
 ButtonSpacing=0
@@ -20,8 +20,8 @@ PaddingBottom=8
 PaddingLeft=8
 PaddingRight=8
 PaddingTop=8
-TitleBorderLeft=5
-TitleBorderRight=5
+TitleBorderLeft=1
+TitleBorderRight=1
 TitleEdgeBottom=3
 TitleEdgeBottomMaximized=3
 TitleEdgeLeft=5

@@ -12,7 +12,7 @@ PanelDefault=22
 PanelSizes=22,32,48
 
 # Directory list
-Directories=8x8/emblems,16x16/actions,16x16/devices,16x16/places,16x16/status,16x16/emblems,16x16/mimetypes,22x22/actions,22x22/apps,24x24/actions,32x32/apps,32x32/devices,32x32/places,32x32/mimetypes,32x32/status,48x48/applets,48x48/apps,48x48/devices,48x48/mimetypes,48x48/places,48x48/status,64x64/places,64x64/mimetypes,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
+Directories=8x8/emblems,16x16/actions,16x16/devices,16x16/places,16x16/status,16x16/emblems,16x16/mimetypes,22x22/actions,22x22/apps,22x22/status,24x24/actions,32x32/apps,32x32/devices,32x32/places,32x32/mimetypes,32x32/status,48x48/applets,48x48/apps,48x48/devices,48x48/mimetypes,48x48/places,48x48/status,64x64/places,64x64/mimetypes,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
 
 [8x8/emblems]
 Context=Emblems
@@ -62,6 +62,11 @@ Type=Fixed
 
 [22x22/apps]
 Context=Applications
+Size=22
+Type=Fixed
+
+[22x22/status]
+Context=Status
 Size=22
 Type=Fixed
 

@@ -1,14 +1,14 @@
 # Maintainer: FadeMind <fademind@gmail.com>
 
 pkgname=papirus-sddm-theme
-_commit=8f30c2e # 7 digits
-pkgver=20160603
+_commit=933e1b0 # 7 digits
+pkgver=20160618
 pkgrel=1
 pkgdesc="Papirus SDDM theme for KDE"
 url="https://github.com/PapirusDevelopmentTeam/${pkgname}"
 arch=('any')
 license=('GPL')
-depends=('sddm' 'sddm-kcm')
+depends=('sddm')
 makedepends=('git' 'make')
 conflicts=('papirus-sddm-theme-git')
 options=('!strip')
@@ -21,6 +21,5 @@ pkgver() {
 }
 
 package() {
-    cd ${pkgname}
-    make install DESTDIR="$pkgdir"
+    make -C "${pkgname}" install DESTDIR="$pkgdir"
 }

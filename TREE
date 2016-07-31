@@ -1,5 +1,143 @@
 .
 ├── CLEANUP.bash
+├── .git
+│   ├── branches
+│   ├── COMMIT_EDITMSG
+│   ├── config
+│   ├── description
+│   ├── FETCH_HEAD
+│   ├── HEAD
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   └── master
+│   │       └── remotes
+│   │           └── origin
+│   │               ├── HEAD
+│   │               └── master
+│   ├── objects
+│   │   ├── 00
+│   │   │   ├── 7fd8fe3cd8c73f27e2a5892d007e4cd37a7777
+│   │   │   └── f966b102a8c55416fa65b0baf6d7ffbdc02087
+│   │   ├── 02
+│   │   │   └── dd7f660f2b9b5a723b1afa4f4f603f3a21b398
+│   │   ├── 07
+│   │   │   └── b27635195b9a7a6c0efea1b70c3016ba944b53
+│   │   ├── 0c
+│   │   │   ├── 29486669d812df33b7c4c654d033ded9e2aed9
+│   │   │   └── b8ee0ce0e51e95da11e01dffbe919152bce668
+│   │   ├── 0e
+│   │   │   ├── a58ddd7a9caca7ac7f2de66b3aaa21cecc56c5
+│   │   │   └── f88f0dfdb99c6b306936fcbb9ac0d6fc4cb239
+│   │   ├── 19
+│   │   │   └── 78453752f13aeaa8b5afeecbf2602291ada9d8
+│   │   ├── 1d
+│   │   │   └── f5150123d4e2dc01864c6fac7ce55a082c8d3e
+│   │   ├── 21
+│   │   │   └── e2613b71c2037489ba24e9c79e5a7c3b4d216a
+│   │   ├── 22
+│   │   │   └── d1fa56b971899894459721309f4606b9bafa16
+│   │   ├── 27
+│   │   │   └── 62be60ae50247019e8d5d74e6d601336a1ce7d
+│   │   ├── 2b
+│   │   │   └── b1bcace1061a5cb3c3a683f888de00228127ba
+│   │   ├── 35
+│   │   │   └── 21aae0d7232b1bac3ed7ab1ece7cc92981fa93
+│   │   ├── 3b
+│   │   │   └── c97af7e51558bffec0ad539ba012259f003470
+│   │   ├── 3c
+│   │   │   ├── 20b5e65a949882000bf1e15919fc434a429ded
+│   │   │   └── 8b2aa04366cca530912374416c43d30dd2e59a
+│   │   ├── 42
+│   │   │   └── 45d8731449994c9c815810859b78f27cd78a40
+│   │   ├── 47
+│   │   │   ├── 2473846f8f0103382cfa3acbb5f3138b9010a2
+│   │   │   ├── a53a9a37f21348fa45388de1c0c3d778721200
+│   │   │   └── c0672e953e1383befcb8efb68414bc415f214d
+│   │   ├── 48
+│   │   │   └── 904811d5738087a86bb41c2b33c790d03fe87f
+│   │   ├── 5c
+│   │   │   └── d0f4906d25ea7de7900354b578ef3a0a51115d
+│   │   ├── 5d
+│   │   │   └── cee20640197d74f479eca5c11dde31fcf703ef
+│   │   ├── 63
+│   │   │   └── 03107475cfd470722ff81966ccebbef9879dde
+│   │   ├── 70
+│   │   │   └── f397eb460fa7c6e87eb341637b8e9b83152908
+│   │   ├── 73
+│   │   │   └── fb80d996841098556cc759fd1545db7b78e2b8
+│   │   ├── 7d
+│   │   │   └── c07280d2a5463a201badbf0b9799e61d7913bb
+│   │   ├── 82
+│   │   │   └── 23517838d607a7daa30e06003aca226c7eb544
+│   │   ├── 85
+│   │   │   └── 86739bc749a0183a8866f794d8a4d3cfa2f6a9
+│   │   ├── 89
+│   │   │   └── 809f67ef155ff87c8570264c26427d59f24196
+│   │   ├── 90
+│   │   │   └── 4d72a8a310c5df2ace432d9a7b026911f54cd8
+│   │   ├── 99
+│   │   │   └── 9a221c6f592c4a1feb48306a6ca8d70d84b618
+│   │   ├── 9a
+│   │   │   └── c5edb0692497e29033e0f77378f05b7f0dbd23
+│   │   ├── 9b
+│   │   │   └── 167a374914c2ace4e015c6aa8967a5507b771b
+│   │   ├── 9c
+│   │   │   └── 7dbf2ff2f6144fcffea919fe1d82e63e112de2
+│   │   ├── ad
+│   │   │   └── 4a4557efd6b141f571549dcf48bfdadeecf8d5
+│   │   ├── b1
+│   │   │   └── b06a8264a9661b6abcfeae9036b1fa06b7c675
+│   │   ├── b2
+│   │   │   └── 53dd81f30b3c9b0c604e020b4f9556d147a5eb
+│   │   ├── b5
+│   │   │   └── b9923d56200eef49eaeaeffb1b84f6998329bd
+│   │   ├── bd
+│   │   │   └── 24f8951660ef829fbf1d59af3d211aad2b2638
+│   │   ├── c0
+│   │   │   └── b66baa2949af920403adb0adcc96ad100dc874
+│   │   ├── cf
+│   │   │   └── e38f1aea46e004c5a31f325b235013788e7f49
+│   │   ├── d6
+│   │   │   └── b0628ff3a755306e2d7bae10c16b458290aa01
+│   │   ├── e4
+│   │   │   └── 8508028ac1f6690df816606da8c03de12065c2
+│   │   ├── f1
+│   │   │   └── 7ed35fe0ebe08920de2ab1394fc262a458867c
+│   │   ├── f4
+│   │   │   └── cde6e3c53ae76fc88463bc60171269d505eb5f
+│   │   ├── fa
+│   │   │   └── e4f73aa659307d2eaea0d8ef7fc9dc2d12a47f
+│   │   ├── fc
+│   │   │   └── fdac66a09c3536928acf76f8047b3dc94e6cce
+│   │   ├── info
+│   │   └── pack
+│   │       ├── pack-dc59b31fef08eccfdff839a41ca3c0b79a90baf1.idx
+│   │       └── pack-dc59b31fef08eccfdff839a41ca3c0b79a90baf1.pack
+│   ├── ORIG_HEAD
+│   ├── packed-refs
+│   └── refs
+│       ├── heads
+│       │   └── master
+│       ├── remotes
+│       │   └── origin
+│       │       ├── HEAD
+│       │       └── master
+│       └── tags
 ├── git-arch
 │   ├── arc-dark-suite-git
 │   │   ├── INSTALL
@@ -24,14 +162,14 @@
 │   │   └── PKGBUILD
 │   ├── papirus-konsole-colorscheme-git
 │   │   └── PKGBUILD
+│   ├── papirus-kvantum-theme-git
+│   │   └── PKGBUILD
 │   ├── papirus-libreoffice-theme-git
 │   │   └── PKGBUILD
 │   ├── papirus-look-and-feel-git
 │   │   └── PKGBUILD
 │   ├── papirus-plasma-theme-git
 │   │   ├── papirus-plasma-theme-git.install
-│   │   └── PKGBUILD
-│   ├── papirus-qtcurve-theme-git
 │   │   └── PKGBUILD
 │   ├── papirus-sddm-theme-git
 │   │   └── PKGBUILD
@@ -41,8 +179,11 @@
 │   │   └── PKGBUILD
 │   ├── papirus-wallpapers-git
 │   │   └── PKGBUILD
-│   └── papirus-yakuake-theme-git
+│   ├── papirus-yakuake-theme-git
+│   │   └── PKGBUILD
+│   └── vlc-arc-dark-git
 │       └── PKGBUILD
+├── .gitignore
 ├── git-kaos
 │   ├── arc-dark-suite-git
 │   │   ├── INSTALL
@@ -129,14 +270,14 @@
 │   │   └── PKGBUILD
 │   ├── papirus-konsole-colorscheme
 │   │   └── PKGBUILD
+│   ├── papirus-kvantum-theme
+│   │   └── PKGBUILD
 │   ├── papirus-libreoffice-theme
 │   │   └── PKGBUILD
 │   ├── papirus-look-and-feel
 │   │   └── PKGBUILD
 │   ├── papirus-plasma-theme
 │   │   ├── papirus-plasma-theme.install
-│   │   └── PKGBUILD
-│   ├── papirus-qtcurve-theme
 │   │   └── PKGBUILD
 │   ├── papirus-sddm-theme
 │   │   └── PKGBUILD
@@ -150,4 +291,4 @@
 │       └── PKGBUILD
 └── TREE
 
-62 directories, 88 files
+124 directories, 167 files

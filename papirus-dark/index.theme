@@ -39,9 +39,7 @@ Type=Scalable
 [16x16/places]
 Context=Places
 Size=16
-MinSize=16
-MaxSize=24
-Type=Scalable
+Type=Fixed
 
 [16x16/emblems]
 Context=Emblems

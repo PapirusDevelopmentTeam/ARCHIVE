@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<colorTheme id="44270" name="Papirus" modified="2016-10-07 16:20:18" author="AD">
-    <searchResultIndication color="#949494" />
-    <filteredSearchResultIndication color="#949494" />
-    <occurrenceIndication color="#949494" />
-    <writeOccurrenceIndication color="#949494" />
+<colorTheme id="44270" name="Papirus" modified="2016-10-07 16:26:23" author="AD">
+    <searchResultIndication color="#BDC3C7" />
+    <filteredSearchResultIndication color="#BDC3C7" />
+    <occurrenceIndication color="#BDC3C7" />
+    <writeOccurrenceIndication color="#BDC3C7" />
     <findScope color="#787878" />
     <deletionIndication color="#787878" />
     <sourceHoverBackground color="#FCFCFC" />

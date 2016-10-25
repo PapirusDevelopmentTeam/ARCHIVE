@@ -27,7 +27,7 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="g6058"
-     inkscape:cx="-9.3859588"
+     inkscape:cx="-2.1809045"
      inkscape:cy="8.7865669"
      gridtolerance="10"
      inkscape:guide-bbox="true"
@@ -36,7 +36,7 @@
      inkscape:object-nodes="true"
      inkscape:object-paths="true"
      objecttolerance="10"
-     pagecolor="#f780f7"
+     pagecolor="#1e1e1e"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      showborder="true"
@@ -62,7 +62,7 @@
      inkscape:window-width="1600"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:zoom="17.31">
+     inkscape:zoom="9.95">
     <inkscape:grid
        color="#000000"
        dotted="false"
@@ -175,7 +175,7 @@
        style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none"
        d="M 11 3 C 6.58173 3 3 6.58173 3 11 C 3 15.41827 6.58173 19 11 19 C 15.41827 19 19 15.41827 19 11 C 19 6.58173 15.41827 3 11 3 z M 10 6 L 12 6 L 12 13 L 10 13 L 10 6 z M 10 14 L 12 14 L 12 16 L 10 16 L 10 14 z "
        transform="translate(624.00001,502)"
-       id="path4150" />
+       id="path4164" />
     <g
        style="enable-background:new"
        id="g4168"

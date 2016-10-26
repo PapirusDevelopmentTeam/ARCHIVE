@@ -22,6 +22,7 @@ sudo apt-get install papirus-pack-kde4
 sudo apt-get install papirus-pack-kde5
 ```
 **Hardcoded tray icons**
+
 Papirus now support [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script
 
 # DONATE

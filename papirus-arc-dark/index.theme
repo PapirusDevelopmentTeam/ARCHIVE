@@ -80,6 +80,11 @@ Size=16
 Scale=2
 Type=Fixed
 
+[22x22/emblems]
+Context=Emblems
+Size=22
+Type=Fixed
+
 [22x22/status]
 Context=Status
 Size=22
@@ -103,6 +108,12 @@ Type=Fixed
 [22x22/mimetypes]
 Context=MimeTypes
 Size=22
+Type=Fixed
+
+[22x22@2x/emblems]
+Context=Emblems
+Size=22
+Scale=2
 Type=Fixed
 
 [22x22@2x/status]
@@ -144,7 +155,6 @@ Type=Fixed
 Context=Actions
 Size=24
 Type=Fixed
-
 
 [24x24/places]
 Context=Places

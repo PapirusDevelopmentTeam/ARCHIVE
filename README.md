@@ -3,13 +3,10 @@
 </p>
 
 # Install
-**Archlinux (AUR)**:
 ```
-yaourt -S papirus-bomi-skin
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-bomi-skin/master/install-papirus.sh | bash
 ```
-**Kubuntu 14.04/16.04**:
-```
-sudo add-apt-repository ppa:varlesh-l/papirus-pack
-sudo apt-get update
-sudo apt-get install bomi-skin-papirus
-```
+**Depends:**
+- wget
+- unzip
+- bomi

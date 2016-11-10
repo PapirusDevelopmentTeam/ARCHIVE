@@ -228,10 +228,13 @@ indicator.element=arrow
 
 [HeaderSection]
 inherits=PanelButtonCommand
-frame.top=2
-frame.bottom=2
-frame.left=2
-frame.right=2
+interior.element=header
+frame.element=header
+frame.top=0
+frame.bottom=0
+frame.left=1
+frame.right=1
+frame.expansion=0
 
 [SizeGrip]
 indicator.element=resize-grip

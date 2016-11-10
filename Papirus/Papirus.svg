@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="845"
+     inkscape:window-height="849"
      id="namedview870"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="406.00437"
-     inkscape:cy="1126.9951"
+     inkscape:zoom="2.05"
+     inkscape:cx="269.02216"
+     inkscape:cy="1182.2571"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -4337,21 +4337,21 @@
   </g>
   <g
      transform="translate(105,-50)"
-     style="stroke:none;stroke-width:3.5;opacity:0.001"
+     style="stroke:none;stroke-width:3.5;opacity:0.2;fill:#000000;fill-opacity:1"
      id="header-separator">
     <rect
        width="2"
        x="149"
        y="75"
        height="10"
-       style="fill-opacity:0"
+       style="fill-opacity:1;fill:#000000"
        id="header-separator0" />
     <rect
        width="1"
        x="149.5"
        y="75"
        height="10"
-       style="fill:#969696"
+       style="fill:#000000;fill-opacity:1"
        id="rect5030" />
   </g>
   <rect

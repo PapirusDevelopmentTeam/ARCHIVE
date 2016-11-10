@@ -11,6 +11,11 @@
 ```
 wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-kde/master/install.sh | bash
 ```
+**Depends:**
+- wget
+- unzip
+- libqt4-svg (right work for Qt4-apps)
+
 # Hardcoded tray icons
 
 Papirus now support [Hardcode-Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script

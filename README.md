@@ -14,4 +14,4 @@ wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-k3b-t
 **Depends:**
 - k3b
 - wget
-- unzzip
+- unzip

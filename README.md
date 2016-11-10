@@ -2,17 +2,17 @@
   <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-aurorae-theme/master/preview.png" alt="preview"/>
 </p>
 
-# Install
-**Archlinux (AUR)**:
+# Install / Update
+## KDE 4
 ```
-yaourt -S papirus-aurorae-theme
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-aurorae-theme/master/install-papirus4.sh | bash
 ```
-**Kubuntu**:
+## KDE 5
 ```
-sudo add-apt-repository ppa:varlesh-l/papirus-pack
-sudo apt-get update
-#Kubuntu 14.04
-sudo apt-get install papirus-pack-kde4
-#Kubuntu 16.04
-sudo apt-get install papirus-pack-kde5
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-aurorae-theme/master/install-papirus5.sh | bash
 ```
+
+**Depends:**
+- plasma-desktop
+- wget
+- unzip

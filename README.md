@@ -3,16 +3,15 @@
 </p>
 
 # Install
-**Archlinux (AUR)**:
+## GTK 3.10 (Ubuntu 14.04)
 ```
-yaourt -S papirus-gtk-theme
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-gtk-theme/master/install-papirus310.sh | bash
 ```
-**Kubuntu**:
+## GTK 3.18 (Ubuntu 16.04)
 ```
-sudo add-apt-repository ppa:varlesh-l/papirus-pack
-sudo apt-get update
-#Kubuntu 14.04
-sudo apt-get install papirus-pack-kde4
-#Kubuntu 16.04
-sudo apt-get install papirus-pack-kde5
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-gtk-theme/master/install-papirus318.sh | bash
 ```
+**Depends:**
+- wget
+- unzip
+- kde-config-gtk-style

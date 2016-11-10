@@ -3,13 +3,10 @@
 </p>
 
 # Install
-**Archlinux (AUR)**:
 ```
-yaourt -S papirus-vlc-theme
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-vlc-theme/master/install-papirus.sh | bash
 ```
-**Kubuntu 14.04/16.04**:
-```
-sudo add-apt-repository ppa:varlesh-l/papirus-pack
-sudo apt-get update
-sudo apt-get install vlc-skin-papirus 
-```
+**Depends:**
+- wget
+- unzip
+- vlc

@@ -3,7 +3,10 @@
 </p>
 
 # Install
-**Archlinux (AUR)**:
 ```
-yaourt -S papirus-sddm-theme
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-sddm-theme/master/install-papirus.sh | bash
 ```
+**Depends:**
+- wget
+- unzip
+- sddm

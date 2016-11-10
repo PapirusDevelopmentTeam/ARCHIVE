@@ -7,19 +7,9 @@
 - Icon name
 - Original icon image
 
-# Install
-**Archlinux, Manjaro, Antergos (AUR)**:
+# Install / Update
 ```
-yaourt -S papirus-icon-theme-kde-git
-```
-**Kubuntu**:
-```
-sudo add-apt-repository ppa:varlesh-l/papirus-pack
-sudo apt-get update
-#Kubuntu 14.04
-sudo apt-get install papirus-pack-kde4
-#Kubuntu 16.04
-sudo apt-get install papirus-pack-kde5
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-kde/master/install.sh | bash
 ```
 # Hardcoded tray icons
 

@@ -9,6 +9,7 @@ echo "Unpack archive ..."
 unzip -oq /tmp/papirus-sddm-theme.zip -d /tmp/
 echo "Installing ..."
 sudo cp -R /tmp/papirus-sddm-theme-master/papirus /usr/share/sddm/themes/
+sudo chmod -R 755 /usr/share/sddm/themes/papirus
 echo "Delete cache ..."
 rm -rf /tmp/papiru*
 rm install-papirus.sh

@@ -12,5 +12,4 @@ sudo cp -R /tmp/papirus-gtk-theme-master/papirus310 /usr/share/themes/
 sudo chmod -R 755 /usr/share/themes/papirus310
 echo "Delete cache ..."
 rm -rf /tmp/papiru*
-rm install-papirus310.sh
 echo "Done!"

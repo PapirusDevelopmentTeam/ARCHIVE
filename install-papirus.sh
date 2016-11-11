@@ -13,5 +13,4 @@ sudo chmod -R 755 /usr/share/icons/papiru*
 echo "Delete cache ..."
 rm -rf ~/.cache/{plasm*,ico*}
 rm -rf /tmp/papiru*
-rm install-papirus.sh
 echo "Done!"

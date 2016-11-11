@@ -10,7 +10,7 @@
 # Install / Update
 ## ROOT DIRECTORY
 ```
-wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-kde/master/install-papirus.sh | bash
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-kde/master/install-papirus-root.sh | bash
 ```
 ## HOME DIRECTORY
 ```

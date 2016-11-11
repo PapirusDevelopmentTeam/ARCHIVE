@@ -14,5 +14,4 @@ cp -R /tmp/papirus-look-and-feel-master/com.github.varlesh.papirus ~/.local/shar
 echo "Delete cache ..."
 rm -rf ~/.cache/{plasm*,ico*}
 rm -rf /tmp/papiru*
-rm install-papirus.sh
 echo "Done!"

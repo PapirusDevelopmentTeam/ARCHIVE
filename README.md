@@ -4,9 +4,14 @@
 
 # Install / Update for KDE
 ```
-wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-wallpapers/master/install-papirus.sh | bash
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-wallpapers/master/install-papirus-home.sh | bash
 ```
 **Depends:**
 - wget
 - unzip
 - plasma-desktop
+
+# Remove
+```
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-wallpapers/master/remove-papirus.sh | bash
+```

@@ -5,4 +5,5 @@
 !README.md
 !*.qml
 !install-papirus.sh
+!remove-papirus.sh
 !.gitignore

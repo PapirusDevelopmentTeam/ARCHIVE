@@ -10,3 +10,8 @@ wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-bomi-
 - wget
 - unzip
 - bomi
+
+# Remove
+```
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-bomi-skin/master/remove-papirus.sh | bash
+```

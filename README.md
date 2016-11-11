@@ -8,11 +8,11 @@ It's GTK theme create for only KDE, not use on GTK DE!
 # Install
 ## GTK 3.10 (Ubuntu 14.04)
 ```
-wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-gtk-theme/master/install-papirus310.sh | bash
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-gtk-theme/master/install-papirus310-root.sh | bash
 ```
 ## GTK 3.18 (Ubuntu 16.04)
 ```
-wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-gtk-theme/master/install-papirus318.sh | bash
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-gtk-theme/master/install-papirus318-root.sh | bash
 ```
 **Depends:**
 - wget

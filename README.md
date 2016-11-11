@@ -11,8 +11,12 @@ wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-color
 ```
 wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-color-scheme/master/install-papirus5.sh | bash
 ```
-
 **Depends:**
 - plasma-desktop
 - wget
 - unzip
+
+# Remove
+```
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-color-scheme/master/remove-papirus.sh | bash
+```

@@ -7,6 +7,4 @@ echo "Create needed folders"
 mkdir -p ~/.local/share/vlc/skins2
 echo "Download new version from GitHub ..."
 wget -c https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-vlc-theme/master/Papirus.vlt -O ~/.local/share/vlc/skins2/Papirus.vlt
-echo "Delete cache ..."
-rm install-papirus.sh
 echo "Done!"

@@ -13,5 +13,4 @@ echo "Installing ..."
 cp -R /tmp/papirus-aurorae-theme-master/Papiru* ~/.kde/share/apps/aurorae/themes/
 echo "Delete cache ..."
 rm -rf /tmp/papiru*
-rm install-papirus4.sh
 echo "Done!"

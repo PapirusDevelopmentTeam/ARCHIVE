@@ -14,5 +14,4 @@ cp -R /tmp/papirus-aurorae-theme-master/Papiru* ~/.local/share/aurorae/themes/
 echo "Delete cache ..."
 rm -rf ~/.cache/{plasm*,ico*}
 rm -rf /tmp/papiru*
-rm install-papirus5.sh
 echo "Done!"

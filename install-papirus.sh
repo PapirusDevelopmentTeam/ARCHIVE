@@ -13,5 +13,4 @@ echo "Installing ..."
 cp -R /tmp/papirus-kvantum-theme-master/Papirus ~/.config/Kvantum/
 echo "Delete cache ..."
 rm -rf /tmp/papiru*
-rm install-papirus.sh
 echo "Done!"

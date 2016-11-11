@@ -11,6 +11,10 @@ wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-auror
 ```
 wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-aurorae-theme/master/install-papirus5.sh | bash
 ```
+## Remove
+```
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-aurorae-theme/master/remove-papirus.sh | bash
+```
 
 **Depends:**
 - plasma-desktop

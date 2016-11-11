@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="849"
+     inkscape:window-height="843"
      id="namedview870"
      showgrid="false"
-     inkscape:zoom="2.05"
-     inkscape:cx="269.02216"
-     inkscape:cy="1182.2571"
+     inkscape:zoom="0.87"
+     inkscape:cx="207.58569"
+     inkscape:cy="262.71687"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -4337,7 +4337,7 @@
   </g>
   <g
      transform="translate(105,-50)"
-     style="stroke:none;stroke-width:3.5;opacity:0.2;fill:#000000;fill-opacity:1"
+     style="stroke:none;stroke-width:3.5;opacity:0.05;fill:#000000;fill-opacity:1"
      id="header-separator">
     <rect
        width="2"
@@ -5169,4 +5169,12 @@
      x="0"
      width="450"
      inkscape:label="#use6599" />
+  <rect
+     id="header-normal"
+     style="opacity:1;fill:#eff0f1;fill-opacity:1;stroke:none"
+     height="40"
+     y="1035"
+     x="337.5"
+     width="40"
+     inkscape:label="#rect4960" />
 </svg>

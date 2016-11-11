@@ -8,6 +8,7 @@ wget -c https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-kde/archive
 echo "Unpack archive ..."
 7z x /tmp/papirus-icon-theme-kde.zip -o/tmp/
 echo "Installing ..."
+mkdir -p ~/.local/share/icons
 cp -R /tmp/papirus-icon-theme-kde-master/papiru* ~/.local/share/icons/
 echo "Delete cache ..."
 rm -rf ~/.cache/{plasm*,ico*}

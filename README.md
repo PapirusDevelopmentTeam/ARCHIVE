@@ -5,11 +5,11 @@
 # Install / Update
 ## KDE 4
 ```
-wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-color-scheme/master/install-papirus4.sh | bash
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-color-scheme/master/install-papirus-kde4-home.sh | bash
 ```
 ## KDE 5
 ```
-wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-color-scheme/master/install-papirus5.sh | bash
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-color-scheme/master/install-papirus-kde5-home.sh | bash
 ```
 **Depends:**
 - plasma-desktop

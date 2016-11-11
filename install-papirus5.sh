@@ -13,5 +13,4 @@ echo "Installing ..."
 cp -R /tmp/papirus-yakuake-theme-master/papirus ~/.local/share/yakuake/kns_skins/
 echo "Delete cache ..."
 rm -rf /tmp/papiru*
-rm install-papirus5.sh
 echo "Done!"

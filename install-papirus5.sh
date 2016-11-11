@@ -7,6 +7,4 @@ echo "Delete old Papirus color-scheme ..."
 rm -rf ~/.local/share/color-schemes/Papirus.colors
 echo "Download new version from GitHub ..."
 wget -c https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-color-scheme/master/Papirus.colors -O ~/.local/share/color-schemes/Papirus.colors
-echo "Delete cache ..."
-rm install-papirus5.sh
 echo "Done!"

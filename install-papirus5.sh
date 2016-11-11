@@ -14,5 +14,4 @@ cp -R /tmp/papirus-plasma-theme-master/papirus ~/.local/share/plasma/desktopthem
 echo "Delete cache ..."
 rm -rf ~/.cache/{plasm*,ico*}
 rm -rf /tmp/papiru*
-rm install-papirus5.sh
 echo "Done!"

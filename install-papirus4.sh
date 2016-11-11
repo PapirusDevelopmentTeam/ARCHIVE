@@ -13,5 +13,4 @@ echo "Installing ..."
 cp -R /tmp/papirus-plasma-theme-master/papirus ~/.kde/share/apps/desktoptheme/
 echo "Delete cache ..."
 rm -rf /tmp/papiru*
-rm install-papirus4.sh
 echo "Done!"

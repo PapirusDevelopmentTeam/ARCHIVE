@@ -4,9 +4,14 @@
 
 # Install
 ```
-wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-sddm-theme/master/install-papirus.sh | bash
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-sddm-theme/master/install-papirus-root.sh | bash
 ```
 **Depends:**
 - wget
 - unzip
 - sddm
+
+# Remove
+```
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-sddm-theme/master/remove-papirus.sh | bash
+```

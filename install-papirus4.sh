@@ -13,5 +13,4 @@ echo "Installing ..."
 cp -R /tmp/papirus-kmail-theme-master/papirus ~/.kde/share/apps/messageviewer/themes/
 echo "Delete cache ..."
 rm -rf /tmp/papiru*
-rm install-papirus4.sh
 echo "Done!"

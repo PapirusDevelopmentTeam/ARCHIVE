@@ -13,5 +13,4 @@ echo "Installing ..."
 cp -R /tmp/papirus-kmail-theme-master/papirus ~/.local/share/messageviewer/theme/
 echo "Delete cache ..."
 rm -rf /tmp/papiru*
-rm install-papirus5.sh
 echo "Done!"

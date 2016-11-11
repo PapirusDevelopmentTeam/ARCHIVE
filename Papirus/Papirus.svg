@@ -39,9 +39,9 @@
      inkscape:window-height="843"
      id="namedview870"
      showgrid="false"
-     inkscape:zoom="0.87"
-     inkscape:cx="207.58569"
-     inkscape:cy="262.71687"
+     inkscape:zoom="15.07"
+     inkscape:cx="245.44552"
+     inkscape:cy="1190.798"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -53,6 +53,29 @@
   </sodipodi:namedview>
   <defs
      id="defs5">
+    <linearGradient
+       id="linearGradient4962">
+      <stop
+         id="stop4964"
+         offset="0"
+         style="stop-opacity:0.1" />
+      <stop
+         id="stop4966"
+         style="stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4952">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.05"
+         offset="0"
+         id="stop4954" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1"
+         id="stop4956" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3837">
       <stop
@@ -139,6 +162,24 @@
        id="radialGradient6744-8"
        r="3.625"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4952"
+       id="linearGradient4958"
+       x1="149.99536"
+       y1="75.155937"
+       x2="149.99536"
+       y2="84.976776"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4962"
+       id="linearGradient4960"
+       gradientUnits="userSpaceOnUse"
+       x1="149.99536"
+       y1="75.155937"
+       x2="149.99536"
+       y2="84.976776" />
   </defs>
   <text
      x="44.75"
@@ -4337,22 +4378,15 @@
   </g>
   <g
      transform="translate(105,-50)"
-     style="stroke:none;stroke-width:3.5;opacity:0.05;fill:#000000;fill-opacity:1"
+     style="stroke:none;stroke-width:3.5;opacity:1;fill:url(#linearGradient4958);fill-opacity:1"
      id="header-separator">
     <rect
        width="2"
        x="149"
        y="75"
        height="10"
-       style="fill-opacity:1;fill:#000000"
+       style="fill-opacity:1;fill:url(#linearGradient4960)"
        id="header-separator0" />
-    <rect
-       width="1"
-       x="149.5"
-       y="75"
-       height="10"
-       style="fill:#000000;fill-opacity:1"
-       id="rect5030" />
   </g>
   <rect
      inkscape:label="#rect9436"

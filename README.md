@@ -4,7 +4,7 @@
 
 # Install
 ```
-wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-bomi-skin/master/install-papirus.sh | bash
+wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-bomi-skin/master/install-papirus-root.sh | bash
 ```
 **Depends:**
 - wget

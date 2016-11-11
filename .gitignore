@@ -4,6 +4,6 @@
 !Makefile
 !README.md
 !*.qml
-!install-papirus.sh
+!install-papirus-root.sh
 !remove-papirus.sh
 !.gitignore

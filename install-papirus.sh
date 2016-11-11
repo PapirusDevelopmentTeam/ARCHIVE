@@ -12,5 +12,4 @@ sudo cp -R /tmp/papirus-bomi-skin-master/Papirus /usr/share/bomi/skins/
 sudo chmod -R 755 /usr/share/bomi/skins/Papirus
 echo "Delete cache ..."
 rm -rf /tmp/papiru*
-rm install-papirus.sh
 echo "Done!"

@@ -12,5 +12,4 @@ sudo cp -R /tmp/papirus-k3b-theme-master/Papirus /usr/share/k3b/pics/
 sudo chmod -R 755 /usr/share/k3b/pics/Papirus
 echo "Delete cache ..."
 rm -rf /tmp/papiru*
-rm install-papirus5.sh
 echo "Done!"

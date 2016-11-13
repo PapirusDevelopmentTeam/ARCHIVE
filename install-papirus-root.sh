@@ -1,4 +1,4 @@
-#/bin/bash
+#!/usr/bin/env bash
 echo "Papirus SDDM theme"
 sleep 5
 echo "Delete old SDDM theme ..."

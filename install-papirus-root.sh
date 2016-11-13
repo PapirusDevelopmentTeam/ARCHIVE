@@ -1,4 +1,4 @@
-#/bin/bash
+#!/usr/bin/env bash
 echo "Papirus icon theme for KDE"
 sleep 5
 echo "Delete old Papirus icon theme ..."

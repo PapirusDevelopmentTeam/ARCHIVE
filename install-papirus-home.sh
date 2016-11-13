@@ -1,4 +1,4 @@
-#/bin/bash
+#!/usr/bin/env bash
 echo "Papirus VLC skin"
 sleep 5
 echo "Delete old skin ..."

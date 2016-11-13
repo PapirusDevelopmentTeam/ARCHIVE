@@ -1,4 +1,4 @@
-#/bin/bash
+#!/usr/bin/env bash
 echo "Papirus KMail theme for KDE 5"
 sleep 5
 echo "Create needed folders"

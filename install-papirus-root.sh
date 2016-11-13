@@ -1,4 +1,4 @@
-#/bin/bash
+#!/usr/bin/env bash
 echo "Papirus bomi skin"
 sleep 5
 echo "Delete old Papirus bomi skin ..."

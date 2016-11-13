@@ -1,4 +1,4 @@
-#/bin/bash
+#!/usr/bin/env bash
 echo "Papirus GTK theme for KDE"
 sleep 5
 echo "Delete old GTK theme ..."

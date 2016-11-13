@@ -1,4 +1,4 @@
-#/bin/bash
+#!/usr/bin/env bash
 echo "Papirus K3B theme for KDE 5"
 sleep 5
 echo "Delete old Papirus Plasma theme ..."

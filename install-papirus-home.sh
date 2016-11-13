@@ -1,4 +1,4 @@
-#/bin/bash
+#!/usr/bin/env bash
 echo "Papirus Kvantum theme"
 sleep 5
 echo "Create needed folders"

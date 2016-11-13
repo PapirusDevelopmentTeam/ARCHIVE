@@ -1,4 +1,4 @@
-#/bin/bash
+#!/usr/bin/env bash
 echo "Papirus konsole colors for KDE 4"
 sleep 5
 echo "Create needed folders ..."

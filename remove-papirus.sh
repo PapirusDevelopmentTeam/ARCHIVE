@@ -1,4 +1,4 @@
-#/bin/bash
+#!/usr/bin/env bash
 echo "Remove Papirus wallpapers"
 rm -rf ~/.local/share/wallpapers/Papirus
 rm -rf ~/.local/share/wallpapers/"Papirus Dark"

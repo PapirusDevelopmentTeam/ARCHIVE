@@ -6,7 +6,7 @@ sudo rm -rf /usr/share/icons/{papirus,papirus-dark,papirus-arc,papirus-arc-dark}
 echo "Download new version from GitHub ..."
 wget -c https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-kde/archive/master.zip -O /tmp/papirus-icon-theme-kde.zip
 echo "Unpack archive ..."
-7z x /tmp/papirus-icon-theme-kde.zip -o/tmp/
+7za x /tmp/papirus-icon-theme-kde.zip -o/tmp/
 echo "Installing ..."
 sudo cp -R /tmp/papirus-icon-theme-kde-master/{papirus,papirus-dark,papirus-arc,papirus-arc-dark} /usr/share/icons/
 sudo chmod -R 755 /usr/share/icons/{papirus,papirus-dark,papirus-arc,papirus-arc-dark}

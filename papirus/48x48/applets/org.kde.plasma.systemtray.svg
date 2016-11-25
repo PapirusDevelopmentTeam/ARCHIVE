@@ -7,13 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   viewBox="0 0 48 48.000001"
    id="svg4222"
+   height="48"
+   width="48"
    version="1.1"
+   viewBox="0 0 48 48.000001"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="org.kde.plasma.systemtray.svg">
+   sodipodi:docname="xfce4-systray.svg">
+  <defs
+     id="defs16" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -23,19 +25,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="778"
-     inkscape:window-height="480"
-     id="namedview15"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     id="namedview14"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24"
+     inkscape:cx="-12.101695"
      inkscape:cy="24"
-     inkscape:window-x="75"
-     inkscape:window-y="34"
-     inkscape:window-maximized="0"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg4222" />
-  <defs
-     id="defs4224" />
   <metadata
      id="metadata4227">
     <rdf:RDF>
@@ -50,54 +50,59 @@
   </metadata>
   <path
      id="rect4203"
-     d="M 6,6 C 4.892,6 4,6.892 4,8 l 0,2 0,28 0,2 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,-2 0,-28 0,-2 C 44,6.892 43.108,6 42,6 L 6,6 Z"
-     style="fill:#4ab3e4;fill-opacity:1;stroke:none" />
+     fill="#4ab3e4"
+     d="m6 6c-1.108 0-2 0.892-2 2v2 28 2c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-2-28-2c0-1.108-0.892-2-2-2h-36z" />
   <path
      id="rect3328"
-     d="M 6,42 C 4.892,42 4,41.108 4,40 l 0,-6 40,0 0,6 c 0,1.108 -0.892,2 -2,2 z"
-     style="fill:#5d5d5d;fill-opacity:1;stroke:none" />
+     fill="#5d5d5d"
+     d="m6 42c-1.108 0-2-0.892-2-2v-6h40v6c0 1.108-0.892 2-2 2z"
+     style="fill:#253951;fill-opacity:1" />
   <path
      id="path3345"
-     d="M 6,6 C 4.892,6 4,6.892 4,8 L 4,9 C 4,7.892 4.892,7 6,7 l 36,0 c 1.108,0 2,0.892 2,2 L 44,8 C 44,6.892 43.108,6 42,6 Z"
-     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none" />
+     opacity=".1"
+     d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z"
+     fill="#fff" />
   <circle
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="circle4144"
+     opacity=".2"
      cx="26"
-     cy="38.999981"
+     cy="39"
      r="2" />
   <circle
-     r="2"
-     cy="37.999981"
-     cx="26"
      id="path4136"
-     style="opacity:0.72000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <circle
+     opacity="0.72"
+     cy="38"
+     cx="26"
      r="2"
-     cy="38.999981"
-     cx="32"
+     fill="#fff" />
+  <circle
      id="circle4146"
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <circle
-     style="opacity:0.72000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="circle4140"
+     opacity=".2"
+     cy="39"
      cx="32"
-     cy="37.999981"
      r="2" />
   <circle
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="circle4148"
-     cx="38"
-     cy="38.999981"
-     r="2" />
-  <circle
+     id="circle4140"
+     opacity="0.72"
+     cx="32"
+     cy="38"
      r="2"
-     cy="37.999981"
+     fill="#fff" />
+  <circle
+     id="circle4148"
+     opacity=".2"
      cx="38"
+     cy="39"
+     r="2" />
+  <circle
      id="circle4142"
-     style="opacity:0.72000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     opacity="0.72"
+     cy="38"
+     cx="38"
+     r="2"
+     fill="#fff" />
   <path
      id="path4142"
-     d="m 4,40 0,1 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,-1 c 0,1.108 -0.892,2 -2,2 L 6,42 C 4.892,42 4,41.108 4,40 Z"
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none" />
+     opacity=".2"
+     d="m4 40v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z" />
 </svg>

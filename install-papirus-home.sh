@@ -1,16 +1,49 @@
-#!/usr/bin/env bash
-echo "Papirus icon theme for KDE"
-! which 7za > /dev/null 2>&1 && { echo "Please install p7zip-full"; exit 1; }
-echo "Download new version from GitHub ..."
-wget -c https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-kde/archive/master.zip -O /tmp/papirus-icon-theme-kde.zip
-echo "Unpack archive ..."
-7za x /tmp/papirus-icon-theme-kde.zip -o/tmp/ > /dev/null
-echo "Delete old Papirus icon theme ..."
-rm -rf ~/.local/share/icons/{papirus,papirus-dark,papirus-arc,papirus-arc-dark}
-echo "Installing ..."
+#!/bin/sh
+
+set -e
+
+gh_repo="papirus-icon-theme-kde"
+gh_desc="Papirus icon theme for KDE"
+
+cat <<- EOF
+
+
+
+      ppppp                         ii
+      pp   pp     aaaaa   ppppp          rr  rrr   uu   uu     sssss
+      ppppp     aa   aa   pp   pp   ii   rrrr      uu   uu   ssss
+      pp        aa   aa   pp   pp   ii   rr        uu   uu      ssss
+      pp          aaaaa   ppppp     ii   rr          uuuuu   sssss
+                          pp
+                          pp
+
+
+  $gh_desc
+  https://github.com/PapirusDevelopmentTeam/$gh_repo
+
+
+EOF
+
+temp_dir=$(mktemp -d)
+
+echo "=> Getting the latest version from GitHub ..."
+wget -O "/tmp/$gh_repo.tar.gz" \
+  https://github.com/PapirusDevelopmentTeam/$gh_repo/archive/master.tar.gz
+echo "=> Unpacking archive ..."
+tar -xzf "/tmp/$gh_repo.tar.gz" -C "$temp_dir"
+echo "=> Deleting old $gh_desc ..."
+rm -rf ~/.local/share/icons/papirus ~/.local/share/icons/papirus-dark \
+  ~/.local/share/icons/papirus-arc ~/.local/share/icons/papirus-arc-dark
+echo "=> Installing ..."
 mkdir -p ~/.local/share/icons
-cp -R /tmp/papirus-icon-theme-kde-master/{papirus,papirus-dark,papirus-arc,papirus-arc-dark} ~/.local/share/icons/
-echo "Delete cache ..."
-rm -rf ~/.cache/{plasm*,ico*}
-rm -rf /tmp/papiru*
-echo "Done!"
+cp --no-preserve=mode,ownership -r \
+  "$temp_dir/$gh_repo-master/papirus" \
+  "$temp_dir/$gh_repo-master/papirus-dark" \
+  "$temp_dir/$gh_repo-master/papirus-arc" \
+  "$temp_dir/$gh_repo-master/papirus-arc-dark" \
+  ~/.local/share/icons/
+echo "=> Clearing cache ..."
+rm -rf "/tmp/$gh_repo.tar.gz" "$temp_dir" \
+  "/var/tmp/kdecache-$(hostname)/icon-cache.kcache" \
+  ~/.cache/icon-cache.kcache
+echo "=> Done!"

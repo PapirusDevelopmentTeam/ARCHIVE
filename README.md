@@ -8,25 +8,25 @@ Papirus - it's SVG icon theme for Linux, based on [Paper](https://github.com/snw
 # Install / Update
 ## ROOT directory
 ```
-wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-kde/master/install-papirus-root.sh | bash
+wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-kde/master/install-papirus-root.sh | sh
 ```
 ## HOME directory
 ```
-wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-kde/master/install-papirus-home.sh | bash
+wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-kde/master/install-papirus-home.sh | sh
 ```
 **Depends:**
 - wget
-- p7zip-full
+- tar
 - libqt4-svg (optional, need for right work on Qt4-apps)
 
 For easy way update you can add bash alias `update-papirus`:
 ```
-echo 'alias update-papirus="wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-kde/master/install-papirus-home.sh | bash"' >> ~/.bashrc
+echo 'alias update-papirus="wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-kde/master/install-papirus-home.sh | sh"' >> ~/.bashrc
 ```
 
 # Remove
 ```
-wget -O - https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-kde/master/remove-papirus.sh | bash
+wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme-kde/master/remove-papirus.sh | sh
 ```
 
 # Hardcoded tray icons

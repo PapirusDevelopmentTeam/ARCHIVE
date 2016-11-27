@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="22"
+   height="22"
+   style="enable-background:new"
+   id="svg7384">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(-564,-508)"
+     id="g6058">
+    <g
+       transform="translate(3.0041 3)"
+       id="g4158">
+      <path
+         d="m567 509c-2.25 0-2 2-2 2v12h14v-1-11c0-2-2-2-2-2zm0 2h10v8.3125 0.84375 0.84375h-10v-0.84375-1.6562z"
+         style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:new;text-transform:none"
+         opacity=".5"
+         id="path6716" />
+      <rect
+         x="571"
+         y="515"
+         width="2"
+         height="2"
+         opacity=".5"
+         id="rect4225" />
+      <rect
+         x="574"
+         y="515"
+         width="2"
+         height="2"
+         opacity=".5"
+         id="rect4227" />
+      <rect
+         x="568"
+         y="515"
+         width="2"
+         height="2"
+         opacity=".5"
+         id="rect4229" />
+      <rect
+         x="571"
+         y="512"
+         width="2"
+         height="2"
+         opacity=".5"
+         id="rect4308" />
+      <rect
+         x="574"
+         y="512"
+         width="2"
+         height="2"
+         opacity=".5"
+         id="rect4310" />
+      <rect
+         x="568"
+         y="512"
+         width="2"
+         height="2"
+         opacity=".5"
+         id="rect4312" />
+      <rect
+         x="571"
+         y="518"
+         width="2"
+         height="2"
+         opacity=".5"
+         id="rect4163" />
+      <rect
+         x="574"
+         y="518"
+         width="2"
+         height="2"
+         opacity=".5"
+         id="rect4165" />
+      <rect
+         x="568"
+         y="518"
+         width="2"
+         height="2"
+         opacity=".5"
+         id="rect4167" />
+    </g>
+  </g>
+</svg>

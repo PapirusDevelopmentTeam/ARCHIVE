@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="22"
+   version="1.1"
+   style="enable-background:new"
+   id="svg7384"
+   height="22">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5606">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5608" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(-545.00041,401.01034)"
+     style="display:inline"
+     id="layer9">
+    <path
+       id="rect4153"
+       d="m 550.00041,-392.01031 0.60045,2.11163 c -1.49167,0.37167 -2.60045,1.71023 -2.60045,3.31696 -0.0102,2.64536 2.26326,3.19534 4.2567,3.57138 l 0.2433,1 9.5,0 2,-10.00002 c -4.07247,4e-5 -11.03667,-8e-5 -14,5e-5 z m 0.87499,3.2143 1.10715,4.42857 c -0.60516,0.12069 -1.66239,-0.72741 -1.98214,-1.9174 -0.32718,-1.22046 0.22646,-2.34228 0.83705,-2.50447 0.0125,-0.003 0.0252,-0.005 0.0379,-0.007 z"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.42857146;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     transform="translate(-545.00041,401.01034)"
+     style="display:inline;filter:url(#filter7554)"
+     id="layer10" />
+  <g
+     transform="translate(-304.00021,-215.98966)"
+     style="display:inline"
+     id="layer1" />
+  <g
+     transform="translate(-545.00041,401.01034)"
+     style="display:inline"
+     id="layer14" />
+  <g
+     transform="translate(-545.00041,401.01034)"
+     style="display:inline"
+     id="layer15" />
+  <g
+     transform="translate(-545.00041,401.01034)"
+     style="display:inline"
+     id="g71291" />
+  <g
+     transform="translate(-304.00021,-65.98966)"
+     style="display:inline"
+     id="layer2" />
+  <g
+     transform="translate(-304.00021,-65.98966)"
+     style="display:inline"
+     id="g6058" />
+  <g
+     transform="translate(-545.00041,401.01034)"
+     style="display:inline"
+     id="layer12" />
+</svg>

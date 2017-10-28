@@ -1,0 +1,12 @@
+Icons {
+	path: <theme_path>/papirus;
+}
+QompPlaylistView {
+    color: #5c616c;
+    font-size: 12px;
+    font-family: "Noto Sans";
+}
+QLCDNumber{
+    border: none;
+    color: #5c616c;
+}

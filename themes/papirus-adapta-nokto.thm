@@ -1,0 +1,12 @@
+Icons {
+	path: <theme_path>/papirus-adapta-nokto;
+}
+QompPlaylistView {
+    color: #cfd8dc;
+    font-size: 12px;
+    font-family: "Noto Sans";
+}
+QLCDNumber{
+    border: none;
+    color: #4db6ac;
+}

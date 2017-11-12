@@ -12,7 +12,7 @@
    version="1"
    id="svg16"
    sodipodi:docname="stop.svg"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+   inkscape:version="0.91 r13725">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="694"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="9.8333333"
-     inkscape:cx="9.7663893"
+     inkscape:cx="-11.538696"
      inkscape:cy="21.874655"
      inkscape:window-x="0"
-     inkscape:window-y="48"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg16" />
   <rect
@@ -67,24 +67,22 @@
      opacity=".2"
      d="m4.0117 24.5c-0.0041 0.167-0.0117 0.332-0.0117 0.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-0.168-0.008-0.333-0.012-0.5-0.264 10.846-9.076 19.5-19.988 19.5s-19.724-8.654-19.988-19.5z"
      id="path14" />
-  <g
-     style="opacity:0.2;fill-opacity:1"
-     transform="matrix(0.61538462,0,0,0.61538462,5.8409383,15.602347)"
-     id="g978">
-    <path
-       id="path976"
-       d="m 16.508475,2.271186 v 26 h 26 v -26 z"
-       style="fill-opacity:1;stroke-width:1.625"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     id="g886"
-     transform="matrix(0.61538462,0,0,0.61538462,5.8409383,14.602347)"
-     style="fill:#ffffff;fill-opacity:1">
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#ffffff;stroke-width:1.625;fill-opacity:1"
-       d="m 16.508475,2.271186 v 26 h 26 v -26 z"
-       id="path14-3" />
-  </g>
+  <rect
+     ry="3"
+     rx="3"
+     y="17"
+     x="16"
+     height="16"
+     width="16"
+     id="rect4141"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4139"
+     width="16"
+     height="16"
+     x="16"
+     y="16"
+     rx="3"
+     ry="3" />
 </svg>

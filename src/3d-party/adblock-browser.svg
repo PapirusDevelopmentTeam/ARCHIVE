@@ -12,7 +12,7 @@
    version="1"
    id="svg18"
    sodipodi:docname="adblock-browser.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.91 r13725">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="822"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
      id="namedview20"
      showgrid="true"
      inkscape:zoom="11.42"
-     inkscape:cx="7.557765"
+     inkscape:cx="-10.787244"
      inkscape:cy="21.822419"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg18">
     <inkscape:grid
@@ -57,7 +57,7 @@
      style="opacity:0.2;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.29067385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      inkscape:connector-curvature="0" />
   <path
-     style="opacity:1;vector-effect:none;fill:#139dd1;fill-opacity:1;stroke:none;stroke-width:1.29067385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;vector-effect:none;fill:#008fc5;fill-opacity:1;stroke:none;stroke-width:1.29067385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="M 17.042969 4 A 3.0003 3.0003 0 0 0 14.919922 4.8710938 L 4.9394531 14.775391 A 3.0003 3.0003 0 0 0 4.0527344 16.894531 L 4 30.957031 A 3.0003 3.0003 0 0 0 4.8710938 33.080078 L 14.777344 43.0625 A 3.0003 3.0003 0 0 0 16.894531 43.949219 L 30.957031 44 A 3.0003 3.0003 0 0 0 33.082031 43.128906 L 43.060547 33.222656 A 3.0003 3.0003 0 0 0 43.947266 31.105469 L 44 17.042969 A 3.0003 3.0003 0 0 0 43.128906 14.917969 L 33.222656 4.9394531 A 3.0003 3.0003 0 0 0 32.230469 4.2773438 A 3.0003 3.0003 0 0 0 31.105469 4.0527344 L 17.042969 4 z "
      id="path4487" />
   <path

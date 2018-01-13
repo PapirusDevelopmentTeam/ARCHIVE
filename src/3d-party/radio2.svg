@@ -12,7 +12,7 @@
    version="1"
    id="svg34"
    sodipodi:docname="radio2.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.91 r13725">
   <metadata
      id="metadata40">
     <rdf:RDF>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="822"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
      id="namedview36"
      showgrid="false"
      inkscape:zoom="6.56"
-     inkscape:cx="-10.723118"
+     inkscape:cx="-42.659094"
      inkscape:cy="24"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg34">
     <inkscape:grid
@@ -72,7 +72,7 @@
      d="m 8.9289,16.929 a 10,10 0 0 0 -0.66429,0.74992 l 3.5673,3.5673 a 5,5 0 0 0 0.63253,6.2894 5,5 0 0 0 6.2921,0.63529 l 3.5714,3.5714 a 10,10 0 0 0 0.74302,-0.6712 10,10 0 0 0 0.66429,-0.74992 l -3.5673,-3.5673 a 5,5 0 0 0 -0.63253,-6.2894 5,5 0 0 0 -6.2921,-0.63529 l -3.5714,-3.5714 a 10,10 0 0 0 -0.7431,0.671 z"
      id="path6"
      inkscape:connector-curvature="0"
-     style="fill:#3cb240;fill-opacity:1" />
+     style="fill:#ee6e00;fill-opacity:1" />
   <circle
      cy="25"
      cx="16"
@@ -84,7 +84,7 @@
      cx="16"
      r="3"
      id="circle10"
-     style="fill:#f3c4c4" />
+     style="fill:#ffffff;fill-opacity:1" />
   <path
      opacity=".1"
      d="m6 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"

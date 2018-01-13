@@ -12,7 +12,7 @@
    version="1"
    id="svg10"
    sodipodi:docname="mercury-browser.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.91 r13725">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="822"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
      id="namedview12"
      showgrid="false"
      inkscape:zoom="11.25"
-     inkscape:cx="16.218175"
+     inkscape:cx="-2.4040472"
      inkscape:cy="25.814445"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg10">
     <inkscape:grid
@@ -63,7 +63,7 @@
      id="rect2" />
   <path
      transform="matrix(0,-1,-1,0,0,0)"
-     style="fill:#4882e3"
+     style="fill:#5257c9;fill-opacity:1"
      d="m -25.066667,-42.488889 c 2.105023,0 5.19875,-1.189153 7.101492,-0.591593 6.985374,2.193773 12.2952131,8.102069 13.6358659,15.431237 0.2163273,1.182632 -1.7151353,2.846703 -1.7151353,4.093689 0,11.08 -6.6088886,18.4888893 -17.6888886,18.4888893 -1.861579,0 -3.928852,0.814871 -5.636424,0.3433403 -7.301718,-2.0163033 -12.902329,-8.0504326 -14.295094,-15.5956466 -0.220133,-1.192559 1.709295,-2.689534 1.709295,-3.947694 0,-11.08 5.808889,-18.222222 16.888889,-18.222222 z"
      id="rect4"
      inkscape:connector-curvature="0"

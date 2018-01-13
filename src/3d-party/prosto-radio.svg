@@ -12,7 +12,7 @@
    version="1"
    id="svg18"
    sodipodi:docname="prosto-radio.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.91 r13725">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="822"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
      id="namedview20"
      showgrid="false"
      inkscape:zoom="7.54"
-     inkscape:cx="-16.864721"
+     inkscape:cx="-39.411141"
      inkscape:cy="24"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg18" />
   <rect
@@ -67,7 +67,7 @@
      cy="29"
      cx="33"
      r="6"
-     style="fill:#bdbdbd;fill-opacity:1"
+     style="fill:#dddddd;fill-opacity:1"
      id="circle6" />
   <path
      opacity=".2"
@@ -79,7 +79,7 @@
      d="m4 38v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"
      id="path10" />
   <rect
-     style="opacity:1;fill:#ffc543;fill-opacity:1"
+     style="opacity:1;fill:#ffc238;fill-opacity:1"
      width="34"
      height="7"
      x="7"

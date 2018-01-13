@@ -12,7 +12,7 @@
    version="1"
    id="svg12"
    sodipodi:docname="torrent-video-player-tvp.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.91 r13725">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="822"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="6.97"
-     inkscape:cx="-1.1774958"
+     inkscape:cx="3.7360375"
      inkscape:cy="24"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12" />
   <path
@@ -53,7 +53,7 @@
      id="path4518"
      style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.84604019" />
   <path
-     style="fill:#ffad49;fill-opacity:1;stroke-width:0.84604019"
+     style="fill:#ff8f07;fill-opacity:1;stroke-width:0.84604019"
      id="path4500"
      d="M 33.103701,7.0007184 A 2.8306131,2.6679174 0 0 1 36,9.6676158 V 38.334044 a 2.8306131,2.6679174 0 0 1 -4.245878,2.308545 L 18.58423,33.477257 5.4151802,26.311075 a 2.8306131,2.6679174 0 0 1 0,-4.620831 L 18.58423,14.523212 31.754122,7.3572001 a 2.8306131,2.6679174 0 0 1 1.349663,-0.3564817 z"
      inkscape:connector-curvature="0" />
@@ -70,9 +70,5 @@
      inkscape:connector-curvature="0"
      d="M 14.896298,7.0007184 A 2.8306132,2.6679174 0 0 0 12,9.6676158 V 38.334044 a 2.8306132,2.6679174 0 0 0 4.245877,2.308545 L 29.415769,33.477257 42.58482,26.311075 a 2.8306132,2.6679174 0 0 0 0,-4.620831 L 29.415769,14.523212 16.245877,7.3572001 A 2.8306132,2.6679174 0 0 0 14.896214,7.0007184 Z"
      id="path2"
-     style="fill:#4598ff;fill-opacity:1;stroke-width:0.84604019" />
-  <path
-     style="fill:#ffffff;fill-opacity:1;stroke-width:0.84604019;opacity:0.1"
-     d="M 14.896484 7 A 2.8306132 2.6679174 0 0 0 12 9.6679688 L 12 10.667969 A 2.8306132 2.6679174 0 0 1 14.896484 8 A 2.8306132 2.6679174 0 0 1 16.246094 8.3574219 L 29.416016 15.523438 L 42.583984 22.689453 A 2.8306132 2.6679174 0 0 1 43.947266 24.5 A 2.8306132 2.6679174 0 0 0 42.583984 21.689453 L 29.416016 14.523438 L 16.246094 7.3574219 A 2.8306132 2.6679174 0 0 0 14.896484 7 z "
-     id="path4510" />
+     style="fill:#6270cd;fill-opacity:1;stroke-width:0.84604019" />
 </svg>

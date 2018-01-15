@@ -12,7 +12,7 @@
    version="1"
    id="svg20"
    sodipodi:docname="smart-eq.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.91 r13725">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="822"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
      id="namedview22"
      showgrid="true"
      inkscape:zoom="10.66"
-     inkscape:cx="8.4038194"
+     inkscape:cx="-11.249089"
      inkscape:cy="21.843666"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg20">
     <inkscape:grid
@@ -65,6 +65,11 @@
      d="M 24 9 A 15 15 0 0 0 9.3203125 21 L 23 21 L 23 27 L 9.3046875 27 A 15 15 0 0 0 24 39 A 15 15 0 0 0 39 24 A 15 15 0 0 0 24 9 z "
      id="circle8" />
   <path
+     id="path4140"
+     d="M 24,12 A 13,13 0 0 0 11.367188,22 L 23,22 23,28 11.365234,28 A 13,13 0 0 0 24,38 13,13 0 0 0 37,25 13,13 0 0 0 24,12 Z"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;enable-background:new"
+     inkscape:connector-curvature="0" />
+  <path
      style="enable-background:new;fill:#4f4f4f;fill-opacity:1"
      d="M 24 11 A 13 13 0 0 0 11.367188 21 L 23 21 L 23 27 L 11.365234 27 A 13 13 0 0 0 24 37 A 13 13 0 0 0 37 24 A 13 13 0 0 0 24 11 z "
      id="circle10" />
@@ -76,7 +81,7 @@
      cx="-25"
      style="opacity:0.2;fill:#000000;fill-opacity:1;enable-background:new" />
   <circle
-     style="enable-background:new"
+     style="enable-background:new;fill:#7a7a7a;fill-opacity:1"
      cx="-24"
      transform="matrix(0,-1,-1,0,0,0)"
      cy="-24"

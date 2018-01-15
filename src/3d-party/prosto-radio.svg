@@ -55,7 +55,7 @@
      width="40"
      y="8"
      x="-44"
-     style="fill:#838383;fill-opacity:1"
+     style="fill:#8e8e8e;fill-opacity:1"
      id="rect2" />
   <circle
      style="opacity:0.2;fill:#000000;fill-opacity:1"
@@ -73,7 +73,8 @@
      opacity=".2"
      d="m6 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"
      fill="#fff"
-     id="path8" />
+     id="path8"
+     style="opacity:0.1" />
   <path
      opacity=".2"
      d="m4 38v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"
@@ -102,4 +103,8 @@
      style="fill:#ffffff;fill-opacity:1;opacity:0.1"
      d="M 33 23 A 6 6 0 0 0 27 29 A 6 6 0 0 0 27.025391 29.498047 A 6 6 0 0 1 33 24 A 6 6 0 0 1 38.974609 29.501953 A 6 6 0 0 0 39 29 A 6 6 0 0 0 33 23 z "
      id="circle4489" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;opacity:0.2"
+     d="M 33 23 A 6 6 0 0 0 27 29 A 6 6 0 0 0 27.025391 29.498047 A 6 6 0 0 1 33 24 A 6 6 0 0 1 38.974609 29.501953 A 6 6 0 0 0 39 29 A 6 6 0 0 0 33 23 z "
+     id="circle4141" />
 </svg>

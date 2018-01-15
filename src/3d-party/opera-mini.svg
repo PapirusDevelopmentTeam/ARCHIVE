@@ -12,7 +12,7 @@
    version="1"
    id="svg17"
    sodipodi:docname="opera-mini.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.91 r13725">
   <metadata
      id="metadata21">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -34,17 +34,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="822"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
      id="namedview19"
-     showgrid="false"
-     inkscape:zoom="10.57"
-     inkscape:cx="24"
+     showgrid="true"
+     inkscape:zoom="16.01"
+     inkscape:cx="4.179754"
      inkscape:cy="12.647114"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg17" />
+     inkscape:current-layer="svg17">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4142" />
+  </sodipodi:namedview>
   <defs
      id="defs5">
     <clipPath
@@ -106,7 +110,7 @@
      id="circle14" />
   <path
      inkscape:connector-curvature="0"
-     d="M 40.512216,41.5 V 30.479242 m -8.999433,0 4.499717,5.999622 4.499716,-5.999622 M 31.512783,41.5 V 30.479242"
+     d="m 40.5,40.5 0,-9 m -9,0 4.5,5 4.5,-5 m -9,9 0,-9"
      style="fill:none;stroke:#ffffff;stroke-width:2.99981093;stroke-linecap:round;stroke-linejoin:round"
      id="path180"
      sodipodi:nodetypes="ccccccc" />

@@ -13,7 +13,7 @@
    version="1.1"
    id="svg22"
    sodipodi:docname="localcast-for-chromecast.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.91 r13725">
   <metadata
      id="metadata28">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,19 +37,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="822"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
      id="namedview24"
      showgrid="false"
-     inkscape:zoom="7.03"
-     inkscape:cx="42.873854"
-     inkscape:cy="16.728528"
+     inkscape:zoom="10.66"
+     inkscape:cx="13.073001"
+     inkscape:cy="12.976183"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg22" />
   <rect
-     style="fill:#7e7e7e"
+     style="fill:#8e8e8e;fill-opacity:1"
      id="rect2"
      x="-41.999989"
      y="-36"
@@ -59,7 +59,7 @@
      rx="2"
      ry="2" />
   <rect
-     style="fill:#757575"
+     style="fill:#4f4f4f;fill-opacity:1"
      id="rect4"
      x="-37.999989"
      y="-44"
@@ -93,11 +93,11 @@
      sodipodi:cx="29.752802"
      sodipodi:sides="3"
      id="path4556"
-     style="opacity:1;vector-effect:none;fill:#00776a;fill-opacity:1;stroke:none;stroke-width:0.74176019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;vector-effect:none;fill:#00645b;fill-opacity:1;stroke:none;stroke-width:0.74176019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      sodipodi:type="star" />
   <path
      sodipodi:type="star"
-     style="opacity:1;vector-effect:none;fill:#47b75a;fill-opacity:1;stroke:none;stroke-width:0.74176019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;vector-effect:none;fill:#3b9649;fill-opacity:1;stroke:none;stroke-width:0.74176019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path4554"
      sodipodi:sides="3"
      sodipodi:cx="29.752802"
@@ -113,7 +113,7 @@
      inkscape:transform-center-y="-2.6666668"
      transform="matrix(1.2447544,0,0,0.82132488,-10.034931,6.2536275)" />
   <path
-     style="opacity:0.2;fill:#ffffff"
+     style="opacity:0.1;fill:#ffffff"
      inkscape:connector-curvature="0"
      id="path8"
      d="m 6,5.9999886 c -1.108,0 -2,0.892 -2,2 v 1 c 0,-1.108 0.892,-2 2,-2 h 36 c 1.108,0 2,0.892 2,2 v -1 c 0,-1.108 -0.892,-2 -2,-2 z" />
@@ -121,12 +121,12 @@
      style="opacity:0.2"
      inkscape:connector-curvature="0"
      id="path10"
-     d="m 12,38.999989 v 1 c 0,1.108 0.892,2 2,2 h 20 c 1.108,0 2,-0.892 2,-2 v -1 c 0,1.108 -0.892,2 -2,2 H 14 c -1.108,0 -2,-0.892 -2,-2 z" />
+     d="m 12,40 0,1 c 0,1.108 0.892,2 2,2 l 20,0 c 1.108,0 2,-0.892 2,-2 l 0,-1 c 0,1.108 -0.892,2 -2,2 l -20,0 c -1.108,0 -2,-0.892 -2,-2 z" />
   <path
      style="opacity:0.2"
      inkscape:connector-curvature="0"
      id="path12"
-     d="m 4,34.999989 v 1 c 0,1.108 0.892,2 2,2 h 36 c 1.108,0 2,-0.892 2,-2 v -1 c 0,1.108 -0.892,2 -2,2 H 6 c -1.108,0 -2,-0.892 -2,-2 z" />
+     d="m 4,36 0,1 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,-1 c 0,1.108 -0.892,2 -2,2 L 6,38 C 4.892,38 4,37.108 4,36 Z" />
   <circle
      style="opacity:0.2;enable-background:new"
      cx="36"
@@ -146,7 +146,7 @@
      id="circle4560"
      style="opacity:0.2;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93179768;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <circle
-     style="opacity:1;vector-effect:none;fill:#fcef73;fill-opacity:1;stroke:none;stroke-width:0.93179768;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;vector-effect:none;fill:#ffec44;fill-opacity:1;stroke:none;stroke-width:0.93179768;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path4558"
      cx="13"
      cy="15"

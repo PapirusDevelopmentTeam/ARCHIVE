@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="48"
    width="48"
+   height="48"
    version="1"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="google-docs.svg">
+   sodipodi:docname="google-contacts.svg">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -21,6 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,32 +47,29 @@
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
+  <circle
+     fill="#009587"
+     cx="24"
+     cy="24"
+     r="20"
+     id="circle4"
+     style="fill:#3d62c2;fill-opacity:1" />
   <path
-     d="M 10,5 C 8.892,5 8,5.892 8,7 v 36 c 0,1.108 0.892,2 2,2 h 28 c 1.108,0 2,-0.892 2,-2 V 17 L 29,16 28,5 Z"
-     style="opacity:0.2;fill:#000000;fill-opacity:1"
-     id="path4" />
-  <path
-     d="m10 4c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-26l-11-1-1-11z"
-     fill="#528ff5"
-     id="path6" />
-  <path
-     opacity=".1"
-     d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h18l11 11h1l-12-12z"
      fill="#fff"
-     style="opacity:0.2"
+     opacity=".2"
+     d="m24 4a20 20 0 0 0 -20 20 20 20 0 0 0 0.0215 0.582 20 20 0 0 1 19.978 -19.582 20 20 0 0 1 19.979 19.418 20 20 0 0 0 0.021 -0.418 20 20 0 0 0 -20 -20z"
+     id="path6"
+     style="opacity:0.1" />
+  <path
+     opacity=".2"
+     d="m43.979 24.418a20 20 0 0 1 -19.979 19.582 20 20 0 0 1 -19.978 -19.418 20 20 0 0 0 -0.022 0.418 20 20 0 0 0 20 20 20 20 0 0 0 20 -20 20 20 0 0 0 -0.021 -0.582z"
      id="path8" />
   <path
-     id="path4146"
-     d="m 28,5 0,10 c 0,1.1046 0.89543,2 2,2 L 40,17 28,5 Z"
-     style="opacity:0.2;fill:#000000"
-     inkscape:connector-curvature="0" />
-  <path
-     d="m28 4v10c0 1.1046 0.89543 2 2 2h10l-12-12z"
-     fill="#a5c5f9"
+     style="opacity:0.2"
+     d="m 24,12 c -2.762,0 -5,2.239 -5,5 0,2.761 2.238,5 5,5 2.762,0 5,-2.239 5,-5 0,-2.761 -2.238,-5 -5,-5 z m 0,13 c -9.999,0.006 -10,6.4 -10,6.4 V 34 c 0,0 1.846142,4 10,4 8.153858,0 10,-4 10,-4 v -2.6 c 0,0 0,-6.404 -9.998,-6.4 z"
      id="path10" />
   <path
-     d="m15 37v-2h11v2zm0-4v-2h17v2zm0-4v-2h17v2zm0-4v-2h17v2z"
-     style="enable-background:new"
-     fill="#fff"
+     style="fill:#ffffff"
+     d="m 24,11 c -2.762,0 -5,2.239 -5,5 0,2.761 2.238,5 5,5 2.762,0 5,-2.239 5,-5 0,-2.761 -2.238,-5 -5,-5 z m 0,13 c -9.999,0.006 -10,6.4 -10,6.4 V 33 c 0,0 1.846142,4 10,4 8.153858,0 10,-4 10,-4 v -2.6 c 0,0 0,-6.404 -9.998,-6.4 z"
      id="path12" />
 </svg>

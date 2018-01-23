@@ -12,7 +12,7 @@
    version="1"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="google-docs.svg">
+   sodipodi:docname="google-slides.svg">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -21,6 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,8 +40,8 @@
      inkscape:window-height="1018"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="24"
+     inkscape:zoom="7.46"
+     inkscape:cx="19.302769"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="32"
@@ -53,7 +54,8 @@
   <path
      d="m10 4c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-26l-11-1-1-11z"
      fill="#528ff5"
-     id="path6" />
+     id="path6"
+     style="fill:#f5ba14;fill-opacity:1" />
   <path
      opacity=".1"
      d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h18l11 11h1l-12-12z"
@@ -68,10 +70,15 @@
   <path
      d="m28 4v10c0 1.1046 0.89543 2 2 2h10l-12-12z"
      fill="#a5c5f9"
-     id="path10" />
+     id="path10"
+     style="fill:#fadc86;fill-opacity:1" />
   <path
-     d="m15 37v-2h11v2zm0-4v-2h17v2zm0-4v-2h17v2zm0-4v-2h17v2z"
-     style="enable-background:new"
-     fill="#fff"
-     id="path12" />
+     id="path4154"
+     d="m 18,23 c -1.108,0 -2,0.892 -2,2 l 0,12 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 l 0,-12 c 0,-1.108 -0.892,-2 -2,-2 l -12,0 z m 0,4 12,0 0,8 -12,0 0,-8 z"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 18 22 C 16.892 22 16 22.892 16 24 L 16 36 C 16 37.108 16.892 38 18 38 L 30 38 C 31.108 38 32 37.108 32 36 L 32 24 C 32 22.892 31.108 22 30 22 L 18 22 z M 18 26 L 30 26 L 30 34 L 18 34 L 18 26 z "
+     id="rect4149" />
 </svg>

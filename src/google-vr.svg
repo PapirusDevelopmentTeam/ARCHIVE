@@ -1,0 +1,11 @@
+<svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="24" cy="25" r="20" style="opacity:.2"/>
+ <circle cx="24" cy="24" r="20" style="fill:#556c76"/>
+ <path d="M 24,4 A 20,20 0 0 0 4,24 20,20 0 0 0 4.0215,24.582 20,20 0 0 1 24,5 20,20 0 0 1 43.979,24.418 20,20 0 0 0 44,24 20,20 0 0 0 24,4 Z" style="fill:#ffffff;opacity:.1"/>
+ <path d="m14 16c-1.662 0-3 1.335325-3 2.994141v11.976562c0 1.658815 1 3.029297 3 3.029297h4.880859c3.118882 0 3.119141-5 5.119141-5s2.000259 5 5.119141 5h4.880859c2 0 3-1.370482 3-3.029297v-11.976562c0-1.658816-1.338-2.994141-3-2.994141h-10z" style="fill-rule:evenodd;fill:#000000;opacity:.2"/>
+ <path d="m14 15c-1.662 0-3 1.335325-3 2.994141v11.976562c0 1.658815 1 3.029297 3 3.029297h4.880859c3.118882 0 3.119141-5 5.119141-5s2.000259 5 5.119141 5h4.880859c2 0 3-1.370482 3-3.029297v-11.976562c0-1.658816-1.338-2.994141-3-2.994141h-10z" style="fill-rule:evenodd;fill:#ffffff"/>
+ <circle cx="18" cy="24" r="3" style="fill-rule:evenodd;fill:#000000;opacity:.2"/>
+ <circle cx="18" cy="23" r="3" style="fill-rule:evenodd;fill:#4f4f4f"/>
+ <circle cx="30" cy="24" r="3" style="fill-rule:evenodd;fill:#000000;opacity:.2"/>
+ <circle cx="30" cy="23" r="3" style="fill-rule:evenodd;fill:#4f4f4f"/>
+</svg>

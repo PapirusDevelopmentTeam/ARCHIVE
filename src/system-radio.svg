@@ -1,0 +1,19 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="scale(-1,1)" x="-44" y="8" width="40" height="32" rx="2" ry="2" fill="#4c636b"/>
+ <circle cx="17" cy="24" r="10" opacity=".2"/>
+ <path d="m9.9289 16.929a10 10 0 0 0-0.66429 0.74992l3.5673 3.5673a5 5 0 0 0 0.63253 6.2894 5 5 0 0 0 6.2921 0.63529l3.5714 3.5714a10 10 0 0 0 0.74302-0.6712 10 10 0 0 0 0.66429-0.74992l-3.5673-3.5673a5 5 0 0 0-0.63253-6.2894 5 5 0 0 0-6.2921-0.63529l-3.5714-3.5714a10 10 0 0 0-0.7431 0.671z" fill="#ee5858"/>
+ <circle cx="17" cy="25" r="3" opacity=".2"/>
+ <circle cx="17" cy="24" r="3" fill="#f3c4c4"/>
+ <g transform="translate(-1)">
+  <rect x="30" y="16" width="12" height="2" rx="1" ry="1" opacity=".2"/>
+  <rect x="30" y="20" width="12" height="2" rx="1" ry="1" opacity=".2"/>
+  <rect x="30" y="24" width="12" height="2" rx="1" ry="1" opacity=".2"/>
+  <rect x="30" y="28" width="12" height="2" rx="1" ry="1" opacity=".2"/>
+ </g>
+ <circle cx="39" cy="36" r="2" opacity=".2"/>
+ <circle cx="39" cy="35" r="2" fill="#58c4ee"/>
+ <path d="m6 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff" opacity=".1"/>
+ <path d="m4 38v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z" opacity=".2"/>
+ <circle cx="33" cy="36" r="2" opacity=".2"/>
+ <circle cx="33" cy="35" r="2" fill="#58c4ee"/>
+</svg>

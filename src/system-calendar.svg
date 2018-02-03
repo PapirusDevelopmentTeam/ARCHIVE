@@ -1,0 +1,24 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m4 15.9v24.1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-24.1z" style="fill:#e4e4e4"/>
+ <path d="m44 17v-8c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v8z" style="opacity:.2"/>
+ <path d="m44 16v-8c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v8z" style="fill:#f54b3e"/>
+ <path d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff" style="opacity:.2"/>
+ <path d="m4 40v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z" opacity=".2"/>
+ <rect x="33" y="26" width="6" height="6" style="fill-rule:evenodd;opacity:.2"/>
+ <rect x="17" y="26" width="6" height="6" style="fill-rule:evenodd;opacity:.2"/>
+ <rect x="9" y="26" width="6" height="6" style="fill-rule:evenodd;opacity:.2"/>
+ <rect x="25" y="34" width="6" height="6" style="fill-rule:evenodd;opacity:.2"/>
+ <rect x="33" y="34" width="6" height="6" style="fill-rule:evenodd;opacity:.2"/>
+ <rect x="17" y="34" width="6" height="6" style="fill-rule:evenodd;opacity:.2"/>
+ <rect x="9" y="34" width="6" height="6" style="fill-rule:evenodd;opacity:.2"/>
+ <rect x="25" y="18" width="6" height="6" style="fill-rule:evenodd;opacity:.2"/>
+ <rect x="33" y="18" width="6" height="6" style="fill-rule:evenodd;opacity:.2"/>
+ <rect x="17" y="18" width="6" height="6" style="fill-rule:evenodd;opacity:.2"/>
+ <rect x="9" y="18" width="6" height="6" style="fill-rule:evenodd;opacity:.2"/>
+ <circle cx="28" cy="30" r="3" style="fill-rule:evenodd;opacity:.2"/>
+ <circle cx="28" cy="29" r="3" style="fill-rule:evenodd;fill:#f54b3e"/>
+ <circle cx="12" cy="12" r="2" style="fill-rule:evenodd;opacity:.2"/>
+ <circle cx="12" cy="11" r="2" style="fill-rule:evenodd;fill:#ffffff"/>
+ <circle cx="36" cy="12" r="2" style="fill-rule:evenodd;opacity:.2"/>
+ <circle cx="36" cy="11" r="2" style="fill-rule:evenodd;fill:#ffffff"/>
+</svg>

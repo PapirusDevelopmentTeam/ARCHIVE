@@ -1,0 +1,21 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m44 40v-32c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v32c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2z" fill="#4f4f4f"/>
+ <g transform="translate(-144,-236)">
+  <path d="m150 242c-1.108 0-2 0.892-2 2v6h40v-6c0-1.108-0.892-2-2-2z" opacity=".2"/>
+  <path d="m150 242c-1.108 0-2 0.892-2 2v2h40v-2c0-1.108-0.892-2-2-2z" opacity=".2"/>
+  <path d="m150 242c-1.108 0-2 0.892-2 2v6h9v-4l-4-4z" fill="#fff" opacity=".2"/>
+  <path d="m163 246-4-4h5l4 4z" fill="#fff" fill-rule="evenodd" opacity=".2"/>
+  <path d="m163 246-4 4h5l4-4z" fill="#fff" fill-rule="evenodd" opacity=".2"/>
+  <path d="m173 246-4-4h5l4 4z" fill="#fff" fill-rule="evenodd" opacity=".2"/>
+  <path d="m173 246-4 4h5l4-4z" fill="#fff" fill-rule="evenodd" opacity=".2"/>
+  <path d="m183 246-4-4h5l4 4z" fill="#fff" fill-rule="evenodd" opacity=".2"/>
+  <path d="m183 246-4 4h5l4-4z" fill="#fff" fill-rule="evenodd" opacity=".2"/>
+  <path d="m150 242c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff" opacity=".2"/>
+ </g>
+ <path d="m4 40v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z" opacity=".2"/>
+ <path d="m5 15c-1.108 0-2 0.892-2 2v14c0 1.108 0.892 2 2 2h9.96875c4.031056 0 5.03125-5 9.03125-5s5.000194 5 9.03125 5h9.96875c1.108 0 2-0.892 2-2v-14c0-1.108-0.892-2-2-2h-19z" style="fill-rule:evenodd;fill:#000000;opacity:.2"/>
+ <path d="m5 14c-1.108 0-2 0.892-2 2v14c0 1.108 0.892 2 2 2h9.96875c4.031056 0 5.03125-5 9.03125-5s5.000194 5 9.03125 5h9.96875c1.108 0 2-0.892 2-2v-14c0-1.108-0.892-2-2-2h-19z" style="fill-rule:evenodd;fill:#e4e4e4"/>
+ <path d="m3 17v12h10c3.313708 0 6-2.686292 6-6s-2.686292-6-6-6z" style="fill-rule:evenodd;fill:#16aef6"/>
+ <path d="m45 17v12h-10c-3.313708 0-6-2.686292-6-6s2.686292-6 6-6z" style="fill-rule:evenodd;fill:#da4b38"/>
+ <path d="m5 14c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h38c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-38z" style="fill-rule:evenodd;fill:#ffffff;opacity:.2"/>
+</svg>

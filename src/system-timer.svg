@@ -1,0 +1,25 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="rotate(-45)" x="-6.7" y="11.18" width="12" height="12" rx="2" ry="2" opacity=".2"/>
+ <rect transform="rotate(-45)" x="-5.99" y="10.48" width="12" height="12" rx="2" ry="2" fill="#597123"/>
+ <path d="m11.658 3.9824c-0.51124 0-1.0223 0.19615-1.4141 0.58789l-5.6561 5.6567c-0.52079 0.52079-0.6872 1.2516-0.51562 1.9141 0.086649-0.33366 0.25327-0.6517 0.51562-0.91406l5.6561-5.6567c0.78347-0.78347 2.0446-0.78347 2.8281 0l5.6582 5.6562c0.2624 0.2624 0.42899 0.58034 0.51562 0.91406 0.1715-0.66238 0.0051-1.3933-0.51562-1.9141l-5.658-5.6557c-0.391-0.3917-0.903-0.5879-1.414-0.5879z" fill="#fff" opacity=".1"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-45" y="-44" width="40" height="40" rx="20" ry="20" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-44" y="-44" width="40" height="40" rx="20" ry="20" fill="#96ba42"/>
+ <path d="m24 4c-11.08 0-20 8.92-20 20 0 0.168 0.0076 0.333 0.0117 0.5 0.2647-10.846 9.0763-19.5 19.988-19.5s19.724 8.654 19.988 19.5c4e-3 -0.167 0.012-0.332 0.012-0.5 0-11.08-8.92-20-20-20z" fill="#fff" opacity=".2"/>
+ <circle cx="24" cy="25" r="15" opacity=".2"/>
+ <circle cx="24" cy="24" r="15" fill="#ffffff"/>
+ <rect transform="rotate(30)" x="30.79" y="-3.22" width="4" height="14" rx="2" ry="2" fill="#f45246"/>
+ <g transform="translate(0,1)" opacity=".1">
+  <circle cx="24" cy="36" r="2"/>
+  <circle cx="24" cy="12" r="2"/>
+  <circle transform="rotate(90)" cx="24" cy="-12" r="2"/>
+  <circle transform="rotate(90)" cx="24" cy="-36" r="2"/>
+ </g>
+ <ellipse cx="24" cy="25" rx="3.999" ry="4" opacity=".1"/>
+ <ellipse cx="24" cy="24" rx="4" ry="4" fill="#4d4d4d"/>
+ <g fill="#4d4d4d">
+  <circle cx="24" cy="36" r="2"/>
+  <circle cx="24" cy="12" r="2"/>
+  <circle transform="rotate(90)" cx="24" cy="-12" r="2"/>
+  <circle transform="rotate(90)" cx="24" cy="-36" r="2"/>
+ </g>
+</svg>

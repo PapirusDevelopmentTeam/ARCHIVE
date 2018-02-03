@@ -1,0 +1,12 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="6" y="10" width="36" height="27" rx="2" ry="2" style="fill-rule:evenodd;fill:#000000;opacity:.2"/>
+ <rect x="6" y="9" width="36" height="27" rx="2" ry="2" style="fill-rule:evenodd;fill:#925105"/>
+ <path d="m5 14c-1.108 0-2 0.892-2 2v22c0 1.108 0.892 2 2 2h11c3 0 4-11 8-11s5 11 8 11h11c1.108 0 2-0.892 2-2v-22c0-1.108-0.892-2-2-2h-38z" style="fill-rule:evenodd;fill:#000000;opacity:.2"/>
+ <path d="m5 13c-1.108 0-2 0.892-2 2v22c0 1.108 0.892 2 2 2h11c3 0 4-11 8-11s5 11 8 11h11c1.108 0 2-0.892 2-2v-22c0-1.108-0.892-2-2-2h-38z" style="fill-rule:evenodd;fill:#de9440"/>
+ <circle cx="14.5" cy="26.5" r="4.5" style="fill-rule:evenodd;fill:#000000;opacity:.1"/>
+ <circle cx="14.5" cy="25.5" r="4.5" style="fill-rule:evenodd;fill:#925105"/>
+ <circle cx="33.5" cy="26.5" r="4.5" style="fill-rule:evenodd;fill:#000000;opacity:.1"/>
+ <circle cx="33.5" cy="25.5" r="4.5" style="fill-rule:evenodd;fill:#925105"/>
+ <path d="m5 13c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h38c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-38z" style="fill-rule:evenodd;fill:#ffffff;opacity:.2"/>
+ <path d="m8 9c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h32c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-32z" style="fill-rule:evenodd;fill:#ffffff;opacity:.1"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-44" y="-44" width="40" height="40" rx="20" ry="20" style="fill:#189848"/>
+ <path d="m24 4c-11.08 0-20 8.92-20 20 0 0.168-4e-3 0.333 0 0.5 0.2644-10.846 9.088-19.5 20-19.5s19.736 8.654 20 19.5c4e-3 -0.167 0-0.332 0-0.5 0-11.08-8.92-20-20-20z" style="fill:#ffffff;opacity:.2"/>
+ <path d="m 19,16 v -4 c 5.452312,0 11.267652,2.386301 14.156311,6.030408 C 33.156311,18.030408 19,20 19,16 Z" style="fill:#ff5046"/>
+ <path d="m4.0117 24.5c-0.0041 0.167-0.0117 0.332-0.0117 0.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-0.168-8e-3 -0.333-0.012-0.5-0.264 10.846-9.076 19.5-19.988 19.5s-19.724-8.654-19.988-19.5z" style="opacity:.2"/>
+ <circle cx="34" cy="23" r="2" style="fill:#fd8176"/>
+ <circle cx="18" cy="23" r="2" style="fill:#fd8176"/>
+ <ellipse cx="26" cy="24.500002" rx="8" ry="8.5" style="fill:#e9bd7f"/>
+ <path d="m21 25h8c3.878 0 7 3.122 7 7s-3 7-7 7h-3c-6 0-12-7.826566-12-14z" style="fill:#000000;opacity:.2"/>
+ <path d="m21 24h8c3.878 0 7 3.122 7 7s-3 7-7 7h-3c-6 0-12-7.826566-12-14z" style="fill:#ffffff"/>
+ <circle cx="15.5" cy="13.5" r="2.5" style="fill:#000000;opacity:.2"/>
+ <circle cx="15.5" cy="12.5" r="2.5" style="fill:#ffffff"/>
+ <rect x="17" y="17" width="19" height="5" rx="1.5" ry="1.5" style="fill:#000000;opacity:.2"/>
+ <rect x="17" y="16" width="19" height="5" rx="1.5" ry="1.5" style="fill:#ffffff"/>
+ <ellipse cx="26.000002" cy="24.5" rx="2" ry="1.5" style="fill:#fd8176"/>
+ <circle cx="21.5" cy="22.5" r=".5" style="fill:#4f4f4f"/>
+ <circle cx="30.5" cy="22.5" r=".5" style="fill:#4f4f4f"/>
+ <path d="m28 27c0 0.828427-0.895431 2-2 2s-2-1.171573-2-2z" style="fill:#000000;opacity:.5"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-36.000031" y="-44" width="32" height="40" rx="2" ry="2" style="fill:#3da0d7"/>
+ <path d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" style="fill:#ffffff;opacity:.2"/>
+ <path d="m4 34v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z" style="opacity:.2"/>
+ <path d="m24 17a14 14 0 0 0-14 14 14 14 0 0 0 14 14 14 14 0 0 0 14-14 14 14 0 0 0-14-14z" style="fill-rule:evenodd;fill:#000000;opacity:.2"/>
+ <path d="m24 16a14 14 0 0 0-14 14 14 14 0 0 0 14 14 14 14 0 0 0 14-14 14 14 0 0 0-14-14z" style="fill-rule:evenodd;fill:#e4e4e4"/>
+ <path d="m24 25a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z" style="fill-rule:evenodd;fill:#000000;opacity:.1"/>
+ <path d="m24 24a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z" style="fill-rule:evenodd;fill:#4f4f4f"/>
+ <path transform="matrix(.9677057 0 0 .74494018 6.3442567 11.490183)" d="m18.244951 8.7387109 1.550058 2.6847791 1.550058 2.68478-3.100116-1e-6h-3.100116l1.550058-2.684779z" style="fill-rule:evenodd;fill:#000000;opacity:.3"/>
+ <path transform="matrix(.9677057 0 0 -.74494018 6.3442567 48.509817)" d="m18.244951 8.7387109 1.550058 2.6847791 1.550058 2.68478-3.100116-1e-6h-3.100116l1.550058-2.684779z" style="fill-rule:evenodd;fill:#000000;opacity:.3"/>
+ <path transform="matrix(0 .9677057 -.74494018 0 42.509817 12.344257)" d="m18.244951 8.7387109 1.550058 2.6847791 1.550058 2.68478-3.100116-1e-6h-3.100116l1.550058-2.684779z" style="fill-rule:evenodd;fill:#000000;opacity:.3"/>
+ <path transform="matrix(0 .9677057 .74494018 0 5.490183 12.344257)" d="m18.244951 8.7387109 1.550058 2.6847791 1.550058 2.68478-3.100116-1e-6h-3.100116l1.550058-2.684779z" style="fill-rule:evenodd;fill:#000000;opacity:.3"/>
+ <path d="M 24 16 A 14 14 0 0 0 10 30 A 14 14 0 0 0 10.021484 30.414062 A 14 14 0 0 1 24 17 A 14 14 0 0 1 37.978516 30.585938 A 14 14 0 0 0 38 30 A 14 14 0 0 0 24 16 z " style="fill-rule:evenodd;fill:#ffffff;opacity:.2"/>
+</svg>

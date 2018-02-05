@@ -1,0 +1,12 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m37 5h-26c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h26c1.108 0 2-0.892 2-2v-36c0-1.108-0.892-2-2-2z" style="opacity:.2"/>
+ <path d="m37 4h-26c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h26c1.108 0 2-0.892 2-2v-36c0-1.108-0.892-2-2-2z" style="fill:#e4e4e4"/>
+ <path d="m17 9a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4zm14 0a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4zm-14 12a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4zm14 0a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4zm-14 12a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4zm14 0a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4z" style="fill:#000000;opacity:.1"/>
+ <path d="m11 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h26c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z" style="fill:#ffffff;opacity:.2"/>
+ <circle cx="17" cy="24" r="4" style="fill:#ff842f"/>
+ <circle cx="31" cy="24" r="4" style="fill:#4f4f4f"/>
+ <circle cx="17" cy="12" r="4" style="fill:#ff842f"/>
+ <circle cx="31" cy="12" r="4" style="fill:#4f4f4f"/>
+ <circle cx="17" cy="36" r="4" style="fill:#4f4f4f"/>
+ <circle cx="31" cy="36" r="4" style="fill:#4f4f4f"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-44" y="-44" width="40" height="40" rx="20" ry="20" style="fill:#566df3"/>
+ <path d="m24 4c-11.08 0-20 8.92-20 20 0 0.168 8e-3 0.333 0.0117 0.5 0.2647-10.846 9.0763-19.5 19.988-19.5s19.724 8.6539 19.988 19.5c4e-3 -0.16686 0.0117-0.33213 0.0117-0.5 0-11.08-8.92-20-20-20z" style="fill:#ffffff;opacity:.1"/>
+ <path d="m4.0117 24.5c-0.0041 0.167-0.0117 0.332-0.0117 0.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-0.16787-0.0076-0.33314-0.01172-0.5-0.264 10.846-9.076 19.5-19.988 19.5s-19.724-8.654-19.988-19.5z" style="opacity:.2"/>
+ <rect x="9" y="17" width="8" height="16" rx="1.5" ry="1.5" style="fill:#000000;opacity:.2"/>
+ <rect x="9" y="16" width="8" height="16" rx="1.5" ry="1.5" style="fill:#ffffff"/>
+ <circle cx="31" cy="25" r="8" style="fill:#000000;opacity:.2"/>
+ <circle cx="31" cy="24" r="8" style="fill:#ffffff"/>
+ <path d="m18 36.000302 6-21" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#000000"/>
+ <path d="m18 35 6-21" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#1ce8b5"/>
+</svg>

@@ -6,6 +6,7 @@ List of discontinued projects:
 * [papirus-aurorae-theme](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-aurorae-theme)
 * [papirus-bomi-skin](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-bomi-skin)
 * [papirus-color-scheme](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-color-scheme)
+* [papirus-eclipse-theme](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-eclipse-theme)
 * [papirus-filezilla-themes](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-filezilla-themes)
 * [papirus-gtk-theme](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-gtk-theme)
 * [papirus-icon-theme-gtk](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-icon-theme-gtk)

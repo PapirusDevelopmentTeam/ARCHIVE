@@ -21,6 +21,7 @@ List of discontinued projects:
 * [papirus-qomp-theme](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-qomp-theme)
 * [papirus-sddm-theme](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-sddm-theme)
 * [papirus-smplayer-theme](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-smplayer-theme)
+* [papirus-suite](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-suite)
 * [papirus-vlc-theme](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-vlc-theme)
 * [papirus-wallpapers](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-wallpapers)
 * [papirus-yakuake-theme](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-yakuake-theme)

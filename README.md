@@ -17,6 +17,7 @@ List of discontinued projects:
 * [papirus-kvantum-theme](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-kvantum-theme)
 * [papirus-libreoffice-theme](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-libreoffice-theme)
 * [papirus-look-and-feel](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-look-and-feel)
+* [papirus-persepolis-theme](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-persepolis-theme)
 * [papirus-plasma-theme](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-plasma-theme)
 * [papirus-qomp-theme](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-qomp-theme)
 * [papirus-sddm-theme](https://github.com/PapirusDevelopmentTeam/ARCHIVE/tree/papirus-sddm-theme)
